@@ -1,0 +1,352 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Nightly Build 8c2a72b0288f3e90a90cf59c30e10f97be4dc67d @ refs/pull/352/merge
+[Phobos] ExceptionHandler is present
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x7C3D0000.
+Module Phobos.dll  base address : 0x78CC0000.
+Other modules:
+Module ntdll.dll.mui  base address : 0x77C60000.
+Module kernel32  base address : 0x77470000.
+Module Kernelbase.dll.mui  base address : 0x76FE0000.
+Module Apphelp  base address : 0x704B0000.
+Module user32  base address : 0x772A0000.
+Module Win32u.DLL  base address : 0x75F60000.
+Module gdi32  base address : 0x75D90000.
+Module gdi32  base address : 0x760E0000.
+Module msvcp_win.dll  base address : 0x75E70000.
+Module ucrtbase.dll  base address : 0x77700000.
+Module advapi32.dll.mui  base address : 0x77820000.
+Module msvcrt.dll  base address : 0x75710000.
+Module sechost.dll.mui  base address : 0x779D0000.
+Module rpcrt4.dll.mui  base address : 0x75F80000.
+Module SHELL32.DLL.MUI  base address : 0x76910000.
+Module WinTypes.dll.mui  base address : 0x759C0000.
+Module COMBASE.DLL.MUI  base address : 0x75B00000.
+Module OLE32.DLL.MUI  base address : 0x75860000.
+Module OLEAUT32.DLL  base address : 0x75DC0000.
+Module imm32  base address : 0x75AD0000.
+Module WINMM.DLL.MUI  base address : 0x753D0000.
+Module wsock32.dll.mui  base address : 0x6C8A0000.
+Module ws2_32.dll.mui  base address : 0x76710000.
+Module ddraw.dll  base address : 0x79D30000.
+Module dsound.dll.mui  base address : 0x50050000.
+Module VERSION.DLL  base address : 0x74CF0000.
+Module COMCTL32.DLL.MUI  base address : 0x79960000.
+Module resampledmo.dll  base address : 0x77E40000.
+Module POWRPROF.DLL.MUI  base address : 0x75370000.
+Module WINMMbase.DLL.MUI  base address : 0x50020000.
+Module msdmo.dll  base address : 0x6C300000.
+Module mswsock.dll.mui  base address : 0x72350000.
+Module DBGHELP.DLL  base address : 0x706C0000.
+Module DBGCORE.DLL  base address : 0x6B8F0000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 50504 Mb
+[Phobos] Starting COM registration...
+[Phobos] Class factory for class AttachmentLocomotionClass registered.
+[Phobos] COM registration done!
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMD06.MIX EXPANDMD02.MIX EXPANDMD01.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1920x1080x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Calc_Confining_Rect(0,0,1920,1080)
+Profile: CPU:34 (3194Mhz Pentium 4)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 5
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mix MULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 3
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1920 X 1080
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 8
+Mod is Yuri's Revenge (1.001) with A230C633
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 50499 Mb
+Session one time init. UniqueID is 48345af5
+Init Rules
+Init random number
+Seed is 5778f46f
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D478
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 5778f48e
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol Vmbus, max frame size is 0
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol afunix, max frame size is 0
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 26.188.188.196
+Found local address: 192.168.1.3
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Processing sides.
+Side 0: GDI 
+  British
+  French
+  Germans
+  Americans
+  Alliance
+Side 1: Nod 
+  Russians
+  Africans
+  Confederation
+  Arabs
+Side 2: ThirdSide 
+  YuriCountry
+Side 3: Civilian 
+  Neutral
+Side 4: Mutant 
+  Special
+
+----- Starting scnenario: spawnmap.ini -----
+Player Count: 1
+Reading scenario: spawnmap.ini
+Scen->IsRandom = false
+ loadmd.MIXRead_Scenario_INI - Filename is spawnmap.ini
+Clearing old scenario
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+[Phobos] Cleared 1 items from CellClass.
+[Phobos] Multiplayer start waypoint found at cell -7551,3197
+[Phobos] Multiplayer start waypoint found at cell -7551,3197
+[Phobos] Multiplayer start waypoint found at cell -7551,3197
+[Phobos] Multiplayer start waypoint found at cell 0,0
+[Phobos] Multiplayer start waypoint found at cell 0,0
+[Phobos] Multiplayer start waypoint found at cell 0,0
+Converting 0 nodes.
+Init theater SNOW
+Processing sides.
+Side 0: GDI 
+  British
+  French
+  Germans
+  Americans
+  Alliance
+Side 1: Nod 
+  Russians
+  Africans
+  Confederation
+  Arabs
+Side 2: ThirdSide 
+  YuriCountry
+Side 3: Civilian 
+  Neutral
+Side 4: Mutant 
+  Special
+[Developer warning]Failed to parse INI file content: [General]WeatherConBolts=WCLBOLT2
+[Developer warning]Failed to parse INI file content: [NACLON]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [YAGRND]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [LUNR]Prerequisite=NAPILE
+[Developer warning]Failed to parse INI file content: [MultipleMindControlTower]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [120mmx]Anim=APMUZZLE
+[Developer warning]Failed to parse INI file content: [MultipleMindControlTank]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [MindControl]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [MindControlE]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [SuperMindControl]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [Controller]AnimList=YURICNTL
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Developer warning]Failed to parse INI file content: [ApocAP]AnimList=APOCEXP
+[Developer warning]Failed to parse INI file content: [ControllerBuilding]AnimList=YURICNTL
+[Developer warning]Failed to parse INI file content: [MultipleMindControlTower]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [120mmx]Anim=APMUZZLE
+[Developer warning]Failed to parse INI file content: [MultipleMindControlTank]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [MindControl]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [MindControlE]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [SuperMindControl]Anim=YURICNTL
+[Developer warning]Failed to parse INI file content: [Controller]AnimList=YURICNTL
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Developer warning]Failed to parse INI file content: [ApocAP]AnimList=APOCEXP
+[Developer warning]Failed to parse INI file content: [ControllerBuilding]AnimList=YURICNTL
+Processing sides.
+Processing sides.
+Preparing Mixfiles for Side 00.
+     Initilizing SIDEC01MD.MIX
+     Initilizing SIDEC01.MIX
+     Initilizing SIDENC01.MIX
+RadarClass::Init_For_House()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Loaded 371 isometric tiles consuming 2801 Kb
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+Unit cost of 450 derived from 2 units totalling 900 credits.
+Finished unit generation. Random number is 7988
+Converting 0 nodes.
+[Developer error][YDUM]SpeedType is invalid!
+[Developer error][VISC_LRG]SpeedType is invalid!
+[Developer error][VISC_SML]SpeedType is invalid!
+MessageListClass::Init(Width: 1738)
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+Tooltips are on.
+Capture_Mouse()
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PLACE
+Adding event OPTIONS
+Paused ElapsedTimer = 366
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Default
+Default
+Adding event EXIT
+Capture_Mouse()
+Resume ElapsedTimer = 366
+Tooltips are on.
+Sending game results because I quit, but didn't see completionSending game results.  SawCompletion=0
+Processing EXIT event on frame 4154
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Tooltips are off.
+Release_Mouse()
+Disconnect_Gracefully
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 603
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111

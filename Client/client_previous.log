@@ -1,0 +1,139 @@
+01.06. 22:05:20.532    ***Logfile for YR Mod client***
+01.06. 22:05:20.533    Client version: 2.12.0.0
+01.06. 22:05:20.533    Loading settings.
+01.06. 22:05:20.558    Failed to load a translation file. Neither C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\Translation.ini exist.
+01.06. 22:05:20.558    Loaded translation: English
+01.06. 22:05:20.571    Initializing updater.
+01.06. 22:05:20.599    Updater: Initializing updater.
+01.06. 22:05:20.601    Warning: No download mirrors found in updater config file or the built-in game info.
+01.06. 22:05:20.602    Updater: Update mirror count: 0
+01.06. 22:05:20.602    Updater: Running from: clientdx.exe
+01.06. 22:05:20.603    OSDescription: Microsoft Windows 10.0.26100 
+01.06. 22:05:20.603    OSArchitecture: X64
+01.06. 22:05:20.603    ProcessArchitecture: X64
+01.06. 22:05:20.604    FrameworkDescription: .NET Framework 4.8.9300.0
+01.06. 22:05:20.604    Selected OS profile: WIN810
+01.06. 22:05:20.604    Current culture: en-US
+01.06. 22:05:21.714    Removing partial custom component downloads.
+01.06. 22:05:21.715    Checking for the existence of FinalSun.ini.
+01.06. 22:05:21.716    FinalSun settings file exists.
+01.06. 22:05:21.736    Writing installation path to the Windows registry.
+01.06. 22:05:21.739    Starting background processing of INI files.
+01.06. 22:05:21.739    /INI/Base does not exist, skipping background processing of INI files.
+01.06. 22:05:21.767    Hardware info: AMD Ryzen 7 7735HS with Radeon Graphics (8 cores) | Video controller: NVIDIA GeForce RTX 4050 Laptop GPU | Total physical memory: 16GB
+01.06. 22:05:22.187    Initializing GameClass.
+01.06. 22:05:22.336    InitGraphicsMode: 1920x1080
+01.06. 22:05:22.352    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:05:23.144    Loading maps from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\INI\MPMaps.ini.
+01.06. 22:05:23.441    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.443    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.444    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.445    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.446    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.446    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.447    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.448    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.452    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.453    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.453    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+01.06. 22:05:23.634    Reading statistics.
+01.06. 22:05:23.983    Attempting to parse INI/Battle.ini to populate mission list.
+01.06. 22:05:23.985    Finished parsing INI/Battle.ini.
+01.06. 22:05:23.991    C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\CampaignTagSelector.ini: Base INI file not found! C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\ThemeDefault\GenericWindow.ini
+01.06. 22:05:24.143    Checkbox 'chkNavalCombat' has forced value in map - saved settings ignored.
+01.06. 22:05:24.149    AssetLoader.LoadSound: Sound not found! getready.wav
+01.06. 22:05:24.179    AssetLoader.LoadSound: Sound not found! getready.wav
+01.06. 22:05:24.179    AssetLoader.LoadSound: Sound not found! return.wav
+01.06. 22:05:24.333    AssetLoader.LoadSound: Sound not found! getready.wav
+01.06. 22:05:24.334    AssetLoader.LoadSound: Sound not found! return.wav
+01.06. 22:05:24.349    AssetLoader.LoadSound: Sound not found! getready.wav
+01.06. 22:05:26.396    Writing spawn.ini
+01.06. 22:05:26.407    Writing map.
+01.06. 22:05:26.407    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\saharami.map
+01.06. 22:05:26.419    About to launch main game executable.
+01.06. 22:05:26.434    Writing settings INI.
+01.06. 22:05:26.436    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
+01.06. 22:05:26.436    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+01.06. 22:05:26.448    GameProcessLogic: Process started.
+01.06. 22:05:26.477    Waiting for qres.dat or syringe.exe to exit.
+01.06. 22:06:44.596    GameProcessLogic: Process exited.
+01.06. 22:06:44.815    InitGraphicsMode: 1920x1080
+01.06. 22:06:45.091    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:06:45.132    GameProcessExited: Parsing statistics.
+01.06. 22:06:45.133    Parsing game statistics.
+01.06. 22:06:45.135    Attempting to read statistics from debug/debug.log
+01.06. 22:06:45.136    GameProcessExited: Adding match to statistics.
+01.06. 22:06:45.136    Skipping adding match to statistics because game only had one player.
+01.06. 22:06:52.353    Writing settings INI.
+01.06. 22:09:45.734    Writing spawn.ini
+01.06. 22:09:45.742    Writing map.
+01.06. 22:09:45.743    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\saharami.map
+01.06. 22:09:45.752    About to launch main game executable.
+01.06. 22:09:45.758    Writing settings INI.
+01.06. 22:09:45.759    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
+01.06. 22:09:45.760    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+01.06. 22:09:45.774    GameProcessLogic: Process started.
+01.06. 22:09:45.790    Waiting for qres.dat or syringe.exe to exit.
+01.06. 22:10:20.046    GameProcessLogic: Process exited.
+01.06. 22:10:20.173    InitGraphicsMode: 1920x1080
+01.06. 22:10:20.233    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:10:20.243    GameProcessExited: Parsing statistics.
+01.06. 22:10:20.243    Parsing game statistics.
+01.06. 22:10:20.244    Attempting to read statistics from debug/debug.log
+01.06. 22:10:20.244    GameProcessExited: Adding match to statistics.
+01.06. 22:10:20.244    Skipping adding match to statistics because game only had one player.
+01.06. 22:10:34.899    Writing spawn.ini
+01.06. 22:10:34.901    Writing map.
+01.06. 22:10:34.901    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\saharami.map
+01.06. 22:10:34.907    About to launch main game executable.
+01.06. 22:10:34.912    Writing settings INI.
+01.06. 22:10:34.913    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
+01.06. 22:10:34.913    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+01.06. 22:10:34.920    GameProcessLogic: Process started.
+01.06. 22:10:34.937    Waiting for qres.dat or syringe.exe to exit.
+01.06. 22:11:13.393    GameProcessLogic: Process exited.
+01.06. 22:11:13.545    InitGraphicsMode: 1920x1080
+01.06. 22:11:13.605    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:11:13.612    GameProcessExited: Parsing statistics.
+01.06. 22:11:13.612    Parsing game statistics.
+01.06. 22:11:13.613    Attempting to read statistics from debug/debug.log
+01.06. 22:11:13.613    GameProcessExited: Adding match to statistics.
+01.06. 22:11:13.613    Skipping adding match to statistics because game only had one player.
+01.06. 22:16:52.808    Writing spawn.ini
+01.06. 22:16:52.810    Writing map.
+01.06. 22:16:52.810    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\saharami.map
+01.06. 22:16:52.816    About to launch main game executable.
+01.06. 22:16:52.821    Writing settings INI.
+01.06. 22:16:52.822    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
+01.06. 22:16:52.823    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+01.06. 22:16:52.830    GameProcessLogic: Process started.
+01.06. 22:16:52.845    Waiting for qres.dat or syringe.exe to exit.
+01.06. 22:17:37.717    GameProcessLogic: Process exited.
+01.06. 22:17:37.853    InitGraphicsMode: 1920x1080
+01.06. 22:17:37.889    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:17:37.897    GameProcessExited: Parsing statistics.
+01.06. 22:17:37.897    Parsing game statistics.
+01.06. 22:17:37.897    Attempting to read statistics from debug/debug.log
+01.06. 22:17:37.897    GameProcessExited: Adding match to statistics.
+01.06. 22:17:37.898    Skipping adding match to statistics because game only had one player.
+01.06. 22:31:29.986    Writing spawn.ini
+01.06. 22:31:29.987    Writing map.
+01.06. 22:31:29.987    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\saharami.map
+01.06. 22:31:29.987    About to launch main game executable.
+01.06. 22:31:30.001    Writing settings INI.
+01.06. 22:31:30.001    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
+01.06. 22:31:30.001    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+01.06. 22:31:30.007    GameProcessLogic: Process started.
+01.06. 22:31:30.031    Waiting for qres.dat or syringe.exe to exit.
+01.06. 22:33:46.141    GameProcessLogic: Process exited.
+01.06. 22:33:46.247    InitGraphicsMode: 1920x1080
+01.06. 22:33:46.287    Entering fullscreen mode with resolution 1920x1080.
+01.06. 22:33:46.294    GameProcessExited: Parsing statistics.
+01.06. 22:33:46.294    Parsing game statistics.
+01.06. 22:33:46.294    Attempting to read statistics from debug/debug.log
+01.06. 22:33:46.295    GameProcessExited: Adding match to statistics.
+01.06. 22:33:46.295    Skipping adding match to statistics because game only had one player.
+01.06. 22:34:33.493    Exiting.
+01.06. 22:34:33.495    Saving Client/friend_list.
+01.06. 22:34:33.495    Saving Client/ignore_list.
+01.06. 22:34:33.500    Saving Client/recent_list.
