@@ -1,70 +1,269 @@
-26.06. 09:42:50.338    ***Logfile for YR Mod client***
-26.06. 09:42:50.341    Client version: 2.12.0.0
-26.06. 09:42:50.341    Loading settings.
-26.06. 09:42:50.406    Failed to load a translation file. Neither C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\Translation.ini exist.
-26.06. 09:42:50.407    Loaded translation: English
-26.06. 09:42:51.258    Initializing updater.
-26.06. 09:42:51.304    Updater: Initializing updater.
-26.06. 09:42:51.321    Warning: No download mirrors found in updater config file or the built-in game info.
-26.06. 09:42:51.322    Updater: Update mirror count: 0
-26.06. 09:42:51.322    Updater: Running from: clientdx.exe
-26.06. 09:42:51.324    OSDescription: Microsoft Windows 10.0.26100 
-26.06. 09:42:51.324    OSArchitecture: X64
-26.06. 09:42:51.325    ProcessArchitecture: X64
-26.06. 09:42:51.325    FrameworkDescription: .NET Framework 4.8.9300.0
-26.06. 09:42:51.326    Selected OS profile: WIN810
-26.06. 09:42:51.326    Current culture: en-US
-26.06. 09:42:52.574    Removing partial custom component downloads.
-26.06. 09:42:52.578    Checking for the existence of FinalSun.ini.
-26.06. 09:42:52.579    FinalSun settings file exists.
-26.06. 09:42:52.584    Hardware info: AMD Ryzen 7 7735HS with Radeon Graphics (8 cores) | Video controller: NVIDIA GeForce RTX 4050 Laptop GPU | Total physical memory: 16GB
-26.06. 09:42:52.638    Writing installation path to the Windows registry.
-26.06. 09:42:52.673    Starting background processing of INI files.
-26.06. 09:42:52.674    /INI/Base does not exist, skipping background processing of INI files.
-26.06. 09:42:54.208    Initializing GameClass.
-26.06. 09:42:54.576    InitGraphicsMode: 1920x1080
-26.06. 09:42:54.610    Entering fullscreen mode with resolution 1920x1080.
-26.06. 09:42:55.701    Loading maps from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\INI\MPMaps.ini.
-26.06. 09:42:57.911    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.913    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.914    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.914    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.915    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.916    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.918    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.919    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.922    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.923    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:57.924    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-26.06. 09:42:58.311    Reading statistics.
-26.06. 09:42:58.706    Attempting to parse INI/Battle.ini to populate mission list.
-26.06. 09:42:58.724    Finished parsing INI/Battle.ini.
-26.06. 09:42:58.749    C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\CampaignTagSelector.ini: Base INI file not found! C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\ThemeDefault\GenericWindow.ini
-26.06. 09:42:59.003    AssetLoader.LoadSound: Sound not found! getready.wav
-26.06. 09:42:59.062    AssetLoader.LoadSound: Sound not found! getready.wav
-26.06. 09:42:59.063    AssetLoader.LoadSound: Sound not found! return.wav
-26.06. 09:42:59.260    AssetLoader.LoadSound: Sound not found! getready.wav
-26.06. 09:42:59.260    AssetLoader.LoadSound: Sound not found! return.wav
-26.06. 09:42:59.274    AssetLoader.LoadSound: Sound not found! getready.wav
-26.06. 09:43:17.639    Writing settings INI.
-26.06. 09:46:17.713    Writing spawn.ini
-26.06. 09:46:17.732    Writing map.
-26.06. 09:46:17.732    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\xeb3.map
-26.06. 09:46:17.801    About to launch main game executable.
-26.06. 09:46:17.809    Writing settings INI.
-26.06. 09:46:17.812    Launch executable: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe
-26.06. 09:46:17.812    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD -Include -Inheritance
-26.06. 09:46:17.856    GameProcessLogic: Process started.
-26.06. 09:46:17.889    Waiting for qres.dat or syringe.exe to exit.
-26.06. 09:46:40.219    GameProcessLogic: Process exited.
-26.06. 09:46:40.383    InitGraphicsMode: 1920x1080
-26.06. 09:46:40.477    Entering fullscreen mode with resolution 1920x1080.
-26.06. 09:46:40.498    GameProcessExited: Parsing statistics.
-26.06. 09:46:40.500    Parsing game statistics.
-26.06. 09:46:40.506    Attempting to read statistics from debug/debug.log
-26.06. 09:46:40.507    GameProcessExited: Adding match to statistics.
-26.06. 09:46:40.509    Skipping adding match to statistics because game only had one player.
-26.06. 10:13:23.235    Exiting.
-26.06. 10:13:23.238    Saving Client/friend_list.
-26.06. 10:13:23.241    Saving Client/ignore_list.
-26.06. 10:13:23.244    Saving Client/recent_list.
+28.06. 21:54:56.439    ***Logfile for YR Mod client***
+28.06. 21:54:56.439    Client version: 2.12.0.0
+28.06. 21:54:56.439    Loading settings.
+28.06. 21:54:56.486    Failed to load a translation file. Neither C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\Translation.ini exist.
+28.06. 21:54:56.486    Loaded translation: English
+28.06. 21:54:56.504    Initializing updater.
+28.06. 21:54:56.550    Updater: Initializing updater.
+28.06. 21:54:56.550    Warning: No download mirrors found in updater config file or the built-in game info.
+28.06. 21:54:56.550    Updater: Update mirror count: 0
+28.06. 21:54:56.550    Updater: Running from: clientdx.exe
+28.06. 21:54:56.560    OSDescription: Microsoft Windows 10.0.26100 
+28.06. 21:54:56.560    OSArchitecture: X64
+28.06. 21:54:56.560    ProcessArchitecture: X64
+28.06. 21:54:56.561    FrameworkDescription: .NET Framework 4.8.9300.0
+28.06. 21:54:56.561    Selected OS profile: WIN810
+28.06. 21:54:56.561    Current culture: en-US
+28.06. 21:54:57.733    Removing partial custom component downloads.
+28.06. 21:54:57.735    Checking for the existence of FinalSun.ini.
+28.06. 21:54:57.735    FinalSun settings file exists.
+28.06. 21:54:57.765    Writing installation path to the Windows registry.
+28.06. 21:54:57.774    Starting background processing of INI files.
+28.06. 21:54:57.774    /INI/Base does not exist, skipping background processing of INI files.
+28.06. 21:54:57.795    Hardware info: AMD Ryzen 7 7735HS with Radeon Graphics (8 cores) | Video controller: NVIDIA GeForce RTX 4050 Laptop GPU | Total physical memory: 16GB
+28.06. 21:54:58.421    Initializing GameClass.
+28.06. 21:54:58.656    InitGraphicsMode: 1920x1080
+28.06. 21:54:58.684    Entering fullscreen mode with resolution 1920x1080.
+28.06. 21:54:59.958    Loading maps from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\INI\MPMaps.ini.
+28.06. 21:55:00.664    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.667    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.669    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.671    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.674    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.676    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.677    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.677    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.684    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.686    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.689    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+28.06. 21:55:00.975    Reading statistics.
+28.06. 21:55:01.395    Attempting to parse INI/Battle.ini to populate mission list.
+28.06. 21:55:01.400    Finished parsing INI/Battle.ini.
+28.06. 21:55:01.415    C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\CampaignTagSelector.ini: Base INI file not found! C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\ThemeDefault\GenericWindow.ini
+28.06. 21:55:01.700    AssetLoader.LoadSound: Sound not found! getready.wav
+28.06. 21:55:01.755    AssetLoader.LoadSound: Sound not found! getready.wav
+28.06. 21:55:01.755    AssetLoader.LoadSound: Sound not found! return.wav
+28.06. 21:55:02.033    AssetLoader.LoadSound: Sound not found! getready.wav
+28.06. 21:55:02.034    AssetLoader.LoadSound: Sound not found! return.wav
+28.06. 21:55:02.062    AssetLoader.LoadSound: Sound not found! getready.wav
+28.06. 21:55:08.502    Writing settings INI.
+28.06. 21:55:08.525    Attempting to DNS resolve GameSurge (irc.gamesurge.net).
+28.06. 21:55:08.647    DNS resolved GameSurge (irc.gamesurge.net): 162.248.94.123, 128.140.107.226, 188.240.145.60, 192.223.27.109
+28.06. 21:55:08.660    Got a Lobby server. IP: 162.248.94.123; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+28.06. 21:55:08.662    Got a Lobby server. IP: 128.140.107.226; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+28.06. 21:55:08.662    Got a Lobby server. IP: 188.240.145.60; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+28.06. 21:55:08.663    Got a Lobby server. IP: 192.223.27.109; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+28.06. 21:55:08.663    The number of Lobby servers is 4.
+28.06. 21:55:08.671    Attempting to ping GameSurge (162.248.94.123).
+28.06. 21:55:08.671    Attempting to ping GameSurge (192.223.27.109).
+28.06. 21:55:08.671    Attempting to ping GameSurge (128.140.107.226).
+28.06. 21:55:08.675    Attempting to ping GameSurge (188.240.145.60).
+28.06. 21:55:08.808    Failed to ping the server GameSurge (188.240.145.60): TimedOut.
+28.06. 21:55:08.808    Failed to ping the server GameSurge (128.140.107.226): TimedOut.
+28.06. 21:55:08.808    Failed to ping the server GameSurge (192.223.27.109): TimedOut.
+28.06. 21:55:08.811    Failed to ping the server GameSurge (162.248.94.123): TimedOut.
+28.06. 21:55:08.813    Lobby server IP: 162.248.94.123, latency: DNF.
+28.06. 21:55:08.814    Lobby server IP: 128.140.107.226, latency: DNF.
+28.06. 21:55:08.814    Lobby server IP: 188.240.145.60, latency: DNF.
+28.06. 21:55:08.815    Lobby server IP: 192.223.27.109, latency: DNF.
+28.06. 21:55:08.815    Lobby servers: 4 available, 0 fast.
+28.06. 21:55:09.100    Attempting connection to 162.248.94.123:6667
+28.06. 21:55:09.105    Succesfully connected to 162.248.94.123 on port 6667
+28.06. 21:55:09.105    Registering.
+28.06. 21:55:09.105    SRM: USER yrce.c350 0 * :N/A yrce CnCNet
+28.06. 21:55:09.109    SRM: NICK Blackgamerz
+28.06. 21:55:09.130    Fetching tunnel server info.
+28.06. 21:55:09.364    Successfully refreshed tunnel cache with 95 servers.
+28.06. 21:55:09.367    Message received: NOTICE AUTH :*** Looking up your hostname
+
+28.06. 21:55:09.375    RMP:  NOTICE AUTH,*** Looking up your hostname,
+28.06. 21:55:09.683    Message received: NOTICE AUTH :*** Checking Ident
+NOTICE AUTH :*** Your forward and reverse DNS do not match, ignoring hostname.
+
+28.06. 21:55:09.684    RMP:  NOTICE AUTH,*** Checking Ident,
+28.06. 21:55:09.685    RMP:  NOTICE AUTH,*** Your forward and reverse DNS do not match, ignoring hostname.,
+28.06. 21:55:09.983    Message received: PING :3277070591
+
+28.06. 21:55:09.984    RMP:  PING 3277070591,
+28.06. 21:55:09.987    PONG 3277070591
+28.06. 21:55:09.998    SRM: PONG 3277070591
+28.06. 21:55:17.827    Message received: NOTICE AUTH :*** No ident response
+
+28.06. 21:55:17.828    RMP:  NOTICE AUTH,*** No ident response,
+28.06. 21:55:19.508    Message received: :NuclearFallout.WA.US.GameSurge.net 001 Blackgamerz :Welcome to the GameSurge IRC Network via NuclearFallout.net, Blackgamerz
+:NuclearFallout.WA.US.GameSurge.net 002 Blackgamerz :Your host is NuclearFallout.WA.US.GameSurge.net, running version u2.10.12.18(gs2)
+:NuclearFallout.WA.US.GameSurge.net 003 Blackgamerz :This server was created Sat 08 Feb UTC at 2020 05:48:18 PM
+:NuclearFallout.WA.US.GameSurge.net 004 Blackgamerz NuclearFallout.WA.US.GameSurge.net u2.10.12.18(gs2) diOoswkgxnI biklmnopstvrDdRcCz bklov
+:NuclearFallout.WA.US.GameSurge.net 005 Blackgamerz WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=75 MAXBANS=100 NICKLEN=30 :are supported by this server
+:NuclearFallout.WA.US.GameSurge.net 005 Blackgamerz MAXNICKLEN=30 TOPICLEN=300 AWAYLEN=200 KICKLEN=300 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=GameSurge :are supported by this server
+:NuclearFallout.WA.US.GameSurge.net 251 Bl
+28.06. 21:55:19.508    RMP: NuclearFallout.WA.US.GameSurge.net 001 Blackgamerz,Welcome to the GameSurge IRC Network via NuclearFallout.net, Blackgamerz,
+28.06. 21:55:19.509    RMP: NuclearFallout.WA.US.GameSurge.net 002 Blackgamerz,Your host is NuclearFallout.WA.US.GameSurge.net, running version u2.10.12.18(gs2),
+28.06. 21:55:19.510    RMP: NuclearFallout.WA.US.GameSurge.net 003 Blackgamerz,This server was created Sat 08 Feb UTC at 2020 05:48:18 PM,
+28.06. 21:55:19.510    RMP: NuclearFallout.WA.US.GameSurge.net 004 Blackgamerz,NuclearFallout.WA.US.GameSurge.net,u2.10.12.18(gs2),diOoswkgxnI,biklmnopstvrDdRcCz,bklov,
+28.06. 21:55:19.510    RMP: NuclearFallout.WA.US.GameSurge.net 005 Blackgamerz,WHOX,WALLCHOPS,WALLVOICES,USERIP,CPRIVMSG,CNOTICE,SILENCE=25,MODES=6,MAXCHANNELS=75,MAXBANS=100,NICKLEN=30,are supported by this server,
+28.06. 21:55:19.512    RMP: NuclearFallout.WA.US.GameSurge.net 005 Blackgamerz,MAXNICKLEN=30,TOPICLEN=300,AWAYLEN=200,KICKLEN=300,CHANNELLEN=200,MAXCHANNELLEN=200,CHANTYPES=#&,PREFIX=(ov)@+,STATUSMSG=@+,CHANMODES=b,k,l,imnpstrDdRcC,CASEMAPPING=rfc1459,NETWORK=GameSurge,are supported by this server,
+28.06. 21:55:19.512    Message received: ackgamerz :There are 11 users and 3046 invisible on 11 servers
+:NuclearFallout.WA.US.GameSurge.net 252 Blackgamerz 26 :operator(s) online
+:NuclearFallout.WA.US.GameSurge.net 253 Blackgamerz 1 :unknown connection(s)
+:NuclearFallout.WA.US.GameSurge.net 254 Blackgamerz 1819 :channels formed
+:NuclearFallout.WA.US.GameSurge.net 255 Blackgamerz :I have 1 clients and 1 servers
+:NuclearFallout.WA.US.GameSurge.net NOTICE Blackga
+28.06. 21:55:19.513    RMP: NuclearFallout.WA.US.GameSurge.net 251 Blackgamerz,There are 11 users and 3046 invisible on 11 servers,
+28.06. 21:55:19.513    RMP: NuclearFallout.WA.US.GameSurge.net 252 Blackgamerz,26,operator(s) online,
+28.06. 21:55:19.514    RMP: NuclearFallout.WA.US.GameSurge.net 253 Blackgamerz,1,unknown connection(s),
+28.06. 21:55:19.515    RMP: NuclearFallout.WA.US.GameSurge.net 254 Blackgamerz,1819,channels formed,
+28.06. 21:55:19.515    RMP: NuclearFallout.WA.US.GameSurge.net 255 Blackgamerz,I have 1 clients and 1 servers,
+28.06. 21:55:19.526    Setting delay to 3137ms for 1
+28.06. 21:55:19.527    Setting delay to 7596ms for 2
+28.06. 21:55:19.528    Setting delay to 2042ms for 3
+28.06. 21:55:19.528    Setting delay to 617ms for 4
+28.06. 21:55:20.154    Delayed message sent: 4
+28.06. 21:55:20.156    SRM: JOIN #yrcer-cg-games
+28.06. 21:55:21.203    Message received: merz :Highest connection count: 2 (1 clients)
+:NuclearFallout.WA.US.GameSurge.net 422 Blackgamerz :MOTD File is missing
+:NuclearFallout.WA.US.GameSurge.net NOTICE Blackgamerz :on 1 ca 1(10) ft 10(10)
+:Blackgamerz!~yrce.c350@113.172.22.51 MODE Blackgamerz :+iw
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :------------- MESSAGE(S) OF THE DAY --------------
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :[users] Notice from ThiefMaster, posted 01:47 PM, 04/09/2015:
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :We've just started cloaking the IPs of all users on connect. This should improve your privacy and also lower the risk of being targeted by packet kiddies.
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :[users] Notice from GameSurge, posted 08:59 PM, 05/11/2013:
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :You can now follow GameSurge on Twitter bit.ly/1607zvW and Facebook on.fb.me/10Aq5Dx Please "like" and "follow" us to be kept up-to-
+28.06. 21:55:21.204    RMP: NuclearFallout.WA.US.GameSurge.net NOTICE Blackgamerz,Highest connection count: 2 (1 clients),
+28.06. 21:55:21.205    RMP: NuclearFallout.WA.US.GameSurge.net 422 Blackgamerz,MOTD File is missing,
+28.06. 21:55:21.205    RMP: NuclearFallout.WA.US.GameSurge.net NOTICE Blackgamerz,on 1 ca 1(10) ft 10(10),
+28.06. 21:55:21.206    RMP: Blackgamerz!~yrce.c350@113.172.22.51 MODE Blackgamerz,+iw,
+28.06. 21:55:21.207    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,------------- MESSAGE(S) OF THE DAY --------------,
+28.06. 21:55:21.208    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,[users] Notice from ThiefMaster, posted 01:47 PM, 04/09/2015:,
+28.06. 21:55:21.209    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,We've just started cloaking the IPs of all users on connect. This should improve your privacy and also lower the risk of being targeted by packet kiddies.,
+28.06. 21:55:21.209    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,[users] Notice from GameSurge, posted 08:59 PM, 05/11/2013:,
+28.06. 21:55:21.210    Message received: date on network news, events, and other items!
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :[users] Notice from feigling, posted 08:24 PM, 07/17/2008:
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :GameSurge provides a new service called SpamServ which moderates your channel. If you are interested in learning more about it read http://www.gamesurge.net/cms/SpamServ
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :[users] Notice from GameSurge, posted 12:27 PM, 01/20/2007:
+:Global!Global@Services.GameSurge.net NOTICE Blackgamerz :Please be familiar with the GameSurge Acceptable Use Policy. All users on the network are required to abide by it. http://www.gamesurge.net/aup/
+
+28.06. 21:55:21.210    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,You can now follow GameSurge on Twitter bit.ly/1607zvW and Facebook on.fb.me/10Aq5Dx Please "like" and "follow" us to be kept up-to-date on network news, events, and other items!,
+28.06. 21:55:21.211    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,[users] Notice from feigling, posted 08:24 PM, 07/17/2008:,
+28.06. 21:55:21.211    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,GameSurge provides a new service called SpamServ which moderates your channel. If you are interested in learning more about it read http://www.gamesurge.net/cms/SpamServ,
+28.06. 21:55:21.212    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,[users] Notice from GameSurge, posted 12:27 PM, 01/20/2007:,
+28.06. 21:55:21.212    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,Please be familiar with the GameSurge Acceptable Use Policy. All users on the network are required to abide by it. http://www.gamesurge.net/aup/,
+28.06. 21:55:21.434    Message received: :Global!Global@Services.GameSurge.net NOTICE Blackgamerz :---------- END OF MESSAGE(S) OF THE DAY ----------
+:NuclearFallout.WA.US.GameSurge.net 396 Blackgamerz ~yrce.c350@33fa51d3.c242db62.3716a040.IP4 :is now your hidden host
+:Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 MODE Blackgamerz :+x
+:Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 JOIN #yrcer-cg-games
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz = #yrcer-cg-games :@Blackgamerz
+:NuclearFallout.WA.US.GameSurge.net 366 Blackgamerz #yrcer-cg-games :End of /NAMES list.
+
+28.06. 21:55:21.436    RMP: Global!Global@Services.GameSurge.net NOTICE Blackgamerz,---------- END OF MESSAGE(S) OF THE DAY ----------,
+28.06. 21:55:21.436    RMP: NuclearFallout.WA.US.GameSurge.net 396 Blackgamerz,~yrce.c350@33fa51d3.c242db62.3716a040.IP4,is now your hidden host,
+28.06. 21:55:21.437    RMP: Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 MODE Blackgamerz,+x,
+28.06. 21:55:21.437    RMP: Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 JOIN #yrcer-cg-games,
+28.06. 21:55:21.438    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,=,#yrcer-cg-games,@Blackgamerz,
+28.06. 21:55:21.439    RMP: NuclearFallout.WA.US.GameSurge.net 366 Blackgamerz,#yrcer-cg-games,End of /NAMES list.,
+28.06. 21:55:22.670    Delayed message sent: 1
+28.06. 21:55:22.671    SRM: JOIN #cncnet ra1-derp
+28.06. 21:55:22.997    Message received: :Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 JOIN #cncnet
+:NuclearFallout.WA.US.GameSurge.net 332 Blackgamerz #cncnet :***** SERVER RULES: https://cncnet.org/community-guidelines-and-rules | Tutorials, tournaments, live streams: https://cncnet.org/discord | Logs: https://logs.cncnet.org/cncnet-room-logs/ *****
+:NuclearFallout.WA.US.GameSurge.net 333 Blackgamerz #cncnet *.GameSurge.net 1719868155
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Blackgamerz [noob]XSSX corana MJqbyLING wowuzishenren Cosmos_KATT Morgan LAD plant__ snitxi Q_Q koishi mir chang V dell_ PINE_ ihuvlkg7oipug_ g8ren mikefrank xs_ pro JGK games98____ LDfensi Reunion2025_____ cuicui66666- CCCP ngngg zaomiao woshi78 SansE ihuvlkg7oipug qwe4895726 xiaobai Sol__ abd_ Noob___ Ann yisang TENSYU coka XMR Dge Lenovo______ MILO General TheSoda red123 Tomoyo_ Natsuki Player___ bradt WS DQHY
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :hsy jbsvxvcxc gneuig asd23 Balboa_ ey hui_ snafu Daibi123_ damn Koch
+28.06. 21:55:22.998    RMP: Blackgamerz!~yrce.c350@33fa51d3.c242db62.3716a040.IP4 JOIN #cncnet,
+28.06. 21:55:22.999    RMP: NuclearFallout.WA.US.GameSurge.net 332 Blackgamerz,#cncnet,***** SERVER RULES: https://cncnet.org/community-guidelines-and-rules | Tutorials, tournaments, live streams: https://cncnet.org/discord | Logs: https://logs.cncnet.org/cncnet-room-logs/ *****,
+28.06. 21:55:23.001    RMP: NuclearFallout.WA.US.GameSurge.net 333 Blackgamerz,#cncnet,*.GameSurge.net,1719868155,
+28.06. 21:55:23.001    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Blackgamerz [noob]XSSX corana MJqbyLING wowuzishenren Cosmos_KATT Morgan LAD plant__ snitxi Q_Q koishi mir chang V dell_ PINE_ ihuvlkg7oipug_ g8ren mikefrank xs_ pro JGK games98____ LDfensi Reunion2025_____ cuicui66666- CCCP ngngg zaomiao woshi78 SansE ihuvlkg7oipug qwe4895726 xiaobai Sol__ abd_ Noob___ Ann yisang TENSYU coka XMR Dge Lenovo______ MILO General TheSoda red123 Tomoyo_ Natsuki Player___ bradt WS DQHY,
+28.06. 21:55:23.001    Message received: iya__ muwum C6H6 games98______ JNshader dy POPODON yuanshenhhh x_ gy xs Nzzsdk darsdr JPRO YUANSHEN Lotolvaj__6 wufeng AuI bbcc vcyugvuy Rambo [ojo]_ YCCC rggfaa defsty MasterSeal cai NTRyyds LudiG Voda Cartmaniac BeOneWithYuri_ weicao233 Paramega JPo aaa__ aasdfa caipi_ yoka33 kanter_ watch gsh33 UYOU Lj1234_ zhingtile JBking_ ahg fdhjf C5-AMR
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :ZHOU1_ Q20 Ipecac zhakala_ suxiling cfdr zzz CSF wyc44 hbgt Shai-Hulud aaaaaa_ ZSS aaaa_ Garvin ccccc asde TheEnd pddd1 niming games98___ fzr10087 CHEsterFiLd suiy__ levius ASST stargazer_ Player666 sadjha Adm_ XKLDKLP d6138 ZhuXuan lnln shin Nurki radsd cn-78907890 hajimi Cn1234 ^XO^Cyclone Mephisto_ Sunshine PC LIBRA_ BSH-RZ qwe Capacity_ R point hhh666 HaiHang jntm shimingwei anna haihanglaonann DDT tertledove
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :[CN]xiao liang_ H1W0xxx000 vvvvv yyueqi ap_ COCO reisen YTDAS_Alex RAM-teski alone noaclip wxzz wxz PacketHero di912111_ yxp DESKTOP
+28.06. 21:55:23.002    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,hsy jbsvxvcxc gneuig asd23 Balboa_ ey hui_ snafu Daibi123_ damn Kochiya__ muwum C6H6 games98______ JNshader dy POPODON yuanshenhhh x_ gy xs Nzzsdk darsdr JPRO YUANSHEN Lotolvaj__6 wufeng AuI bbcc vcyugvuy Rambo [ojo]_ YCCC rggfaa defsty MasterSeal cai NTRyyds LudiG Voda Cartmaniac BeOneWithYuri_ weicao233 Paramega JPo aaa__ aasdfa caipi_ yoka33 kanter_ watch gsh33 UYOU Lj1234_ zhingtile JBking_ ahg fdhjf C5-AMR,
+28.06. 21:55:23.003    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,ZHOU1_ Q20 Ipecac zhakala_ suxiling cfdr zzz CSF wyc44 hbgt Shai-Hulud aaaaaa_ ZSS aaaa_ Garvin ccccc asde TheEnd pddd1 niming games98___ fzr10087 CHEsterFiLd suiy__ levius ASST stargazer_ Player666 sadjha Adm_ XKLDKLP d6138 ZhuXuan lnln shin Nurki radsd cn-78907890 hajimi Cn1234 ^XO^Cyclone Mephisto_ Sunshine PC LIBRA_ BSH-RZ qwe Capacity_ R point hhh666 HaiHang jntm shimingwei anna haihanglaonann DDT tertledove,
+28.06. 21:55:23.003    Message received: -CDK Arkhalis wtfk lbwnb likai Red____ hjkjheg bbb berserk xinger233 njhfdgfh [UFF]ToCaiA hx king LINBIAO101 KisinSagume a31713 cvb Xing old xu cxy666 Maomao SYWH luo_ SnowOrchid deIl Kesselring jackel inferno mmw suny6666666665 weiyu1209 FireFang luo madaka Gan qaq_ XINGBAI Yoki
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Sebastian_ yuhao ELAN baibai dustsans Fin ddj Rose lolo Reg Qun_wk zhu_ qawse Famid DD2536 langua ctc233_ ak188 ZX nn GOD30 Ace kk_ Player red__ hei Skynet LP mage123 zero Waterelf Rami JayGay meng111 GOOD Xiaomi_ MiniNeKo srj_111111 raylights sadder yxcj HASEd xia_Q ziguang Jamesie ffowen WINNER mxqwq Aspe H2C2O4 flybai Keqing dasduc [RP]B52-VN1 QWQ_____ Quang M31_ Supercordo [BAT]Evy ta Cryocopter zkq18 LHT
+:NuclearFallout.W
+28.06. 21:55:23.004    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,[CN]xiao liang_ H1W0xxx000 vvvvv yyueqi ap_ COCO reisen YTDAS_Alex RAM-teski alone noaclip wxzz wxz PacketHero di912111_ yxp DESKTOP-CDK Arkhalis wtfk lbwnb likai Red____ hjkjheg bbb berserk xinger233 njhfdgfh [UFF]ToCaiA hx king LINBIAO101 KisinSagume a31713 cvb Xing old xu cxy666 Maomao SYWH luo_ SnowOrchid deIl Kesselring jackel inferno mmw suny6666666665 weiyu1209 FireFang luo madaka Gan qaq_ XINGBAI Yoki,
+28.06. 21:55:23.004    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Sebastian_ yuhao ELAN baibai dustsans Fin ddj Rose lolo Reg Qun_wk zhu_ qawse Famid DD2536 langua ctc233_ ak188 ZX nn GOD30 Ace kk_ Player red__ hei Skynet LP mage123 zero Waterelf Rami JayGay meng111 GOOD Xiaomi_ MiniNeKo srj_111111 raylights sadder yxcj HASEd xia_Q ziguang Jamesie ffowen WINNER mxqwq Aspe H2C2O4 flybai Keqing dasduc [RP]B52-VN1 QWQ_____ Quang M31_ Supercordo [BAT]Evy ta Cryocopter zkq18 LHT,
+28.06. 21:55:23.306    Message received: A.US.GameSurge.net 353 Blackgamerz @ #cncnet :XIAOPANG trax [BA]MIKA KKS YunRu Brownstein luorin JINHSI camd Misaki Stevie [kgb] mengtian INTELnvdia lenovo_______ xgngz ZL Harry [---AceBnd6 fdjjf chen123 littledick qazwsx Emp WYFX bai_tang zhingtile_ youyou Neko nothing_ [BR]-BOLSONARO Mika Ad542194 Yosemite xiaofangniuma xixi Beiyonita Sepia [RP]Quin SMAMM [CN]detuer demo21 Infinity1 huguijie Sky_ lisa KarrotYLS YZL G152 [Meow]Kumquat tttooo COLONEL hgcd
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :JJJ Chirpy potaw Lenovo_____ sasaniiii Kalel xuzai66 FireDragon Bai_Tian dcsikcoivjs sysd7rrond_ IDF angel123 Kiperina {}ccp hajimeng ymymym Niau_ Asus__ mengxin CN_HoLd asdf_ Noa RBL recc www Mr_RezistoR RU doufufu noob_ Vitrion_ Cad__ Big_Pipi asfs6c61 WeiMo raven anno YK lingyu KeithTMaxwell powercord taylor aaaaaa rupa__ IUI czy SS wennd HFDDP25 cc jtt xia llm WXC Momoi SENSEI_ little6 TitanfallR2 XY aimen
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :pppppp CausticLime asd
+28.06. 21:55:23.307    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,XIAOPANG trax [BA]MIKA KKS YunRu Brownstein luorin JINHSI camd Misaki Stevie [kgb] mengtian INTELnvdia lenovo_______ xgngz ZL Harry [---AceBnd6 fdjjf chen123 littledick qazwsx Emp WYFX bai_tang zhingtile_ youyou Neko nothing_ [BR]-BOLSONARO Mika Ad542194 Yosemite xiaofangniuma xixi Beiyonita Sepia [RP]Quin SMAMM [CN]detuer demo21 Infinity1 huguijie Sky_ lisa KarrotYLS YZL G152 [Meow]Kumquat tttooo COLONEL hgcd,
+28.06. 21:55:23.307    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,JJJ Chirpy potaw Lenovo_____ sasaniiii Kalel xuzai66 FireDragon Bai_Tian dcsikcoivjs sysd7rrond_ IDF angel123 Kiperina {}ccp hajimeng ymymym Niau_ Asus__ mengxin CN_HoLd asdf_ Noa RBL recc www Mr_RezistoR RU doufufu noob_ Vitrion_ Cad__ Big_Pipi asfs6c61 WeiMo raven anno YK lingyu KeithTMaxwell powercord taylor aaaaaa rupa__ IUI czy SS wennd HFDDP25 cc jtt xia llm WXC Momoi SENSEI_ little6 TitanfallR2 XY aimen,
+28.06. 21:55:23.308    Message received: a Wyvren sevelor Zero_ binbin _20041889 Tambura eqweqas rd Yz_ fanshao U9hu JY147 linyaouo Barracuda kiana gdi j1234 Lazzard legolas CrowbrotherL AVCD Tamrac armou__ JUAN SG_ U_U_ Player________ yousuzimo kayoko HP114514 qwerty_ you112233 guagua chushouniang__ Aresn platinum hop qwertsada bydpuerty RYAN FengGunC ToGaWasaki liang__ phaser Sal Player______ lvyang935999112 Charly makbarii Withershins
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :FAW bkmod cai_ji derf uyg7iugjkowq Mega SWt5521_ ghostblade lin__ yegar dashabi Qinlingyibei qwerty aa12345 luoshui Yassir_ MxNaiM FBBD11_ wuneng yusiyang SST did scienceship zkk XAK_ FDD__ Adm jojo_ MoDe yizhijuzi yux zhangjun Chitaei ASUS___ wusan stars sanwu chlup lala Verrente cn123 yanhan CIO-F challry LJ04096 Filex__ giannis yourself_ hhdbb_wk Rhines ljjun y0simtsam AL_1S a1688 valentina SYu Lenovo oxopentanal
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :arena moyan xppp BAKUKUDULU5 Cookie khoshsgc lzx abu Xishuohan tqzcsans_ WE
+28.06. 21:55:23.308    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,pppppp CausticLime asda Wyvren sevelor Zero_ binbin _20041889 Tambura eqweqas rd Yz_ fanshao U9hu JY147 linyaouo Barracuda kiana gdi j1234 Lazzard legolas CrowbrotherL AVCD Tamrac armou__ JUAN SG_ U_U_ Player________ yousuzimo kayoko HP114514 qwerty_ you112233 guagua chushouniang__ Aresn platinum hop qwertsada bydpuerty RYAN FengGunC ToGaWasaki liang__ phaser Sal Player______ lvyang935999112 Charly makbarii Withershins,
+28.06. 21:55:23.309    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,FAW bkmod cai_ji derf uyg7iugjkowq Mega SWt5521_ ghostblade lin__ yegar dashabi Qinlingyibei qwerty aa12345 luoshui Yassir_ MxNaiM FBBD11_ wuneng yusiyang SST did scienceship zkk XAK_ FDD__ Adm jojo_ MoDe yizhijuzi yux zhangjun Chitaei ASUS___ wusan stars sanwu chlup lala Verrente cn123 yanhan CIO-F challry LJ04096 Filex__ giannis yourself_ hhdbb_wk Rhines ljjun y0simtsam AL_1S a1688 valentina SYu Lenovo oxopentanal,
+28.06. 21:55:23.310    Message received: Q bloodline11115 PVE123 yil sunmy_Sama xixixi MTXB Chromy the ruabi FiFi_wk ya_he AWT888 ASUS________ yellowww__ wuuzui asfldjjaildfa dongkun15 sbzlf La0dyA bobobangbang Girulek BIG pyonemgmg LCSF Playerer Binary2847 wrd LXY CYJ Hguvftr caigou111 ldp cn105 Eraser smallant DUKE YuboFeng ln114 SB122A32 YANAY ST Reunion2025___ Fsky_Cloud baishan2900
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Neng DDD123 A_____ BlackF____ xiaofu_ games98_ axb [BAT]g-NO wai_wk cool3501 [BR]ZENET Takagi a____ lyt ultravi0let [CAI]Soap_c AKOsDOG CAI666 wese_ LINGKONG Junvong [RP]Asc Jason z ds_shkoda James_ shade Weslie D9527 Iisnoob caofang_ xianyu pop llaaaaaa lab jasonopus xuan_ cup LIIIIIIIIIIIII qwq____ QWQ__ clairo_ xiaolan233 Player1112 gsdfgfsdegsf UN zhangjie MichaelCorn Admi88888 giant konqiren _hcu NewPlayer__
+:NuclearFallout.WA.US.Gam
+28.06. 21:55:23.311    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,arena moyan xppp BAKUKUDULU5 Cookie khoshsgc lzx abu Xishuohan tqzcsans_ WEQ bloodline11115 PVE123 yil sunmy_Sama xixixi MTXB Chromy the ruabi FiFi_wk ya_he AWT888 ASUS________ yellowww__ wuuzui asfldjjaildfa dongkun15 sbzlf La0dyA bobobangbang Girulek BIG pyonemgmg LCSF Playerer Binary2847 wrd LXY CYJ Hguvftr caigou111 ldp cn105 Eraser smallant DUKE YuboFeng ln114 SB122A32 YANAY ST Reunion2025___ Fsky_Cloud baishan2900,
+28.06. 21:55:23.311    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Neng DDD123 A_____ BlackF____ xiaofu_ games98_ axb [BAT]g-NO wai_wk cool3501 [BR]ZENET Takagi a____ lyt ultravi0let [CAI]Soap_c AKOsDOG CAI666 wese_ LINGKONG Junvong [RP]Asc Jason z ds_shkoda James_ shade Weslie D9527 Iisnoob caofang_ xianyu pop llaaaaaa lab jasonopus xuan_ cup LIIIIIIIIIIIII qwq____ QWQ__ clairo_ xiaolan233 Player1112 gsdfgfsdegsf UN zhangjie MichaelCorn Admi88888 giant konqiren _hcu NewPlayer__,
+28.06. 21:55:23.631    Message received: eSurge.net 353 Blackgamerz @ #cncnet :EDFK Demacia cancan CPU key_ A1999 lulu zhong_ lenovo__ chcghoy_ qwer [M-Player]____ Ayano_ Nai1 dsq_ zlzl diracocean xxzz mingming Wu_Li [M-Player]___ Remilia LiMing XuDuo koro [M-Player]_ con__leon1 Rokin xingqingchengl LanY Looking [ATRI]Fura star tH_ gdspsdf yunyun hanh_ cherry GlobalCook mrcao XIWhiteCat_ [SS]YunRu JiiNeTAiMee_ SeptCX aaaa__ iPhone40 GMP Yi_ CS123123123 SAKAI ShepherdZ yxk Ljh828 AF_FA dtfrhgt
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :MoShang _1145 sbSY_ lny Emberfire _8-bit ERORE ksp SV_VSER_XV bbenja_min Sol FHF3 Reunion2025_ KKKKKKKKKKKK i_kun TOMZCR God chara0321__ xiaoA [M- darkpo__ rx110 momoji cyf1 zhiyue Whiztsoi tfboy ivanxu__ zhm Runningdust Disappointed_ WAH dasfsad Chen zzz916 mk_ lllq Bili_WaveRider UZI_ lilliate Gemini WHC Edcrfv Cocacoda A1569637822 Lacheln__ HG666 love GM_ IttoLive ZW666 AHH666 [Soul]Taker dearseall jacklove
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :xiaoliu KK FunyMudPe kjij
+28.06. 21:55:23.632    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,EDFK Demacia cancan CPU key_ A1999 lulu zhong_ lenovo__ chcghoy_ qwer [M-Player]____ Ayano_ Nai1 dsq_ zlzl diracocean xxzz mingming Wu_Li [M-Player]___ Remilia LiMing XuDuo koro [M-Player]_ con__leon1 Rokin xingqingchengl LanY Looking [ATRI]Fura star tH_ gdspsdf yunyun hanh_ cherry GlobalCook mrcao XIWhiteCat_ [SS]YunRu JiiNeTAiMee_ SeptCX aaaa__ iPhone40 GMP Yi_ CS123123123 SAKAI ShepherdZ yxk Ljh828 AF_FA dtfrhgt,
+28.06. 21:55:23.632    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,MoShang _1145 sbSY_ lny Emberfire _8-bit ERORE ksp SV_VSER_XV bbenja_min Sol FHF3 Reunion2025_ KKKKKKKKKKKK i_kun TOMZCR God chara0321__ xiaoA [M- darkpo__ rx110 momoji cyf1 zhiyue Whiztsoi tfboy ivanxu__ zhm Runningdust Disappointed_ WAH dasfsad Chen zzz916 mk_ lllq Bili_WaveRider UZI_ lilliate Gemini WHC Edcrfv Cocacoda A1569637822 Lacheln__ HG666 love GM_ IttoLive ZW666 AHH666 [Soul]Taker dearseall jacklove,
+28.06. 21:55:23.633    Message received: gjmb llllllllllllll cpx games98__ adwdsd qbh_ kuan wenzidong Player000 plikol liking Color03 SOGRUBEGROJ xhte PugsheenDog winwinwin AA momoshushu2 CYH Ke_er AZhen4268 wu123 xingtang_ _1_1_1_ BB TKY li___ whiteglint Tanga Player_____ jichengdashuai cp30_ fuhuo LTAnser [5W]Mirin_ wei16_ cor606_ BMN ASils Sayaka__ Shan_Zha dgverd HK416 jiawe bunarette MLobster randomball YEXIAN siegheil ralsei
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Which Daylight_ aaa1 Y86178 Os Vozhd xxxaxaxa HE__ lyx0913 jgm GARBO qingmingjie Silence Ass Computer_ x_____________ Sanliang ww22ol XY_ [CN]chi SkyHawk_ kd22 ElizaLanic HCY lzm ZiLu caigou haihaihai__ WodNull issca L_ Tuco Pursuer Cider_bai_ao Li [BR]JAIKOM komasfgg saber___ dadsz Amadeus abab knd mimi wmz dabao XZpis a666666 asdfg Azusa_ Walterwhite gai nuomibinggao key byd joesdio Thunderflyer3 Cisyam qwerty__
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Carmen_ ZRF QWQ___ gdg little-pig CuteCapoo manwang Gorf SunWei UAWBFWW i11212_ FClo
+28.06. 21:55:23.633    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,xiaoliu KK FunyMudPe kjijgjmb llllllllllllll cpx games98__ adwdsd qbh_ kuan wenzidong Player000 plikol liking Color03 SOGRUBEGROJ xhte PugsheenDog winwinwin AA momoshushu2 CYH Ke_er AZhen4268 wu123 xingtang_ _1_1_1_ BB TKY li___ whiteglint Tanga Player_____ jichengdashuai cp30_ fuhuo LTAnser [5W]Mirin_ wei16_ cor606_ BMN ASils Sayaka__ Shan_Zha dgverd HK416 jiawe bunarette MLobster randomball YEXIAN siegheil ralsei,
+28.06. 21:55:23.633    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Which Daylight_ aaa1 Y86178 Os Vozhd xxxaxaxa HE__ lyx0913 jgm GARBO qingmingjie Silence Ass Computer_ x_____________ Sanliang ww22ol XY_ [CN]chi SkyHawk_ kd22 ElizaLanic HCY lzm ZiLu caigou haihaihai__ WodNull issca L_ Tuco Pursuer Cider_bai_ao Li [BR]JAIKOM komasfgg saber___ dadsz Amadeus abab knd mimi wmz dabao XZpis a666666 asdfg Azusa_ Walterwhite gai nuomibinggao key byd joesdio Thunderflyer3 Cisyam qwerty__,
+28.06. 21:55:23.635    Message received: wn MengLuo Dudmo yxh shiroko guocmttt Dandelion ababab_ RG lsy yan_jian_ epsilonpiscorp Naidrer_ JHkaktus_ hun5_ [VN]Yubel DefeatedDogKi_ Toms liyongkun11 Orange xj NOVA nmsl zhl Lenov_________ Nuclear Nagisa_ yelaixiang Maze qwp_ Grunt BAOZI114514 Cpdorz hb114514 guapizi Hanachirusato with shenjin__ Marisa Envy FLY satou_ baixiaomeng
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :hhhhhhhh TNHT kong WUYI pcyr zeroone_ Stardust812_ gualizi xianbei114514 xinshou_ Bomb[A]stic NightHawk22 CLzsky qweqwe gggyyy_ zcx Lin_43257 JK_ ddd Barista Ziya zzzzz Re22222222 ETERNALSTAR_ jjijiji Re111111 EXLZX luoye XIAOLUOYO Guido zszwsh HUAWEI__ AHSGG yzx DirtyMouth33 Hyche katiaoya Tarist REDLANDERS Ethereality NastyAhlem Lethe A44634 Plahcbyghk yyds Manager xxx076 Yuri442 DenlNister mclint ACCEED jlsb
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :Danganronpa ElMeiro_ KKKKK_ qbwan HI wobushiren laofan huang233 nb__ Vonnegut NER ASJ yan_ +VN EMPEROR__ mWHST HR155 TragicBronson GDbro YAY_ hl
+28.06. 21:55:23.635    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Carmen_ ZRF QWQ___ gdg little-pig CuteCapoo manwang Gorf SunWei UAWBFWW i11212_ FClown MengLuo Dudmo yxh shiroko guocmttt Dandelion ababab_ RG lsy yan_jian_ epsilonpiscorp Naidrer_ JHkaktus_ hun5_ [VN]Yubel DefeatedDogKi_ Toms liyongkun11 Orange xj NOVA nmsl zhl Lenov_________ Nuclear Nagisa_ yelaixiang Maze qwp_ Grunt BAOZI114514 Cpdorz hb114514 guapizi Hanachirusato with shenjin__ Marisa Envy FLY satou_ baixiaomeng,
+28.06. 21:55:23.636    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,hhhhhhhh TNHT kong WUYI pcyr zeroone_ Stardust812_ gualizi xianbei114514 xinshou_ Bomb[A]stic NightHawk22 CLzsky qweqwe gggyyy_ zcx Lin_43257 JK_ ddd Barista Ziya zzzzz Re22222222 ETERNALSTAR_ jjijiji Re111111 EXLZX luoye XIAOLUOYO Guido zszwsh HUAWEI__ AHSGG yzx DirtyMouth33 Hyche katiaoya Tarist REDLANDERS Ethereality NastyAhlem Lethe A44634 Plahcbyghk yyds Manager xxx076 Yuri442 DenlNister mclint ACCEED jlsb,
+28.06. 21:55:23.636    Message received: xh YL_ PO_ ^XO^XeRA Telena deepdeeep Lenovo____ hua nm boos Alanqa xiaojiu DIY Lynn zxzzzzzzz AngelCities Azoos_ SUZURAN spar Hornet ou chara_chades icer dogofpavlov qwert BELLA hyu1401 ZYZ_c137 LPD__ jjj_ a02 Apocalypser meiyou zk_ Truth_Dream_ LaoDa Ultra7 Dawn_meng
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :rtyre chickenboss wCSN WSADDS [Yunru]CINA LoongCub dwqniqfg GWFWWEQ NADE kuai momo_ ldccz [BR]Brasil7 tianqi-556 catengine CHINESE mxzi test123 fortheunion tommy yzx88888 colder_ dsa332 BITaband Secland student_ Lake24kobe rember Zw_ F20 Tim moran tutu-wk DELL AnonTokyo Valkyrja_ gys fos^gt noob5544 SeitadBallista Mliady o vopv screen p_____ hhhh Taotaonb momo Hotdog aku_ bbbbb_ luhv Admi NI xbz ShunChui [CN]CHUNS
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :songgg SMRS w1592 Mistake STNK-PICHI8 llk100086 eeeec Admi123 AYCYNYAHARU feng Joestarli KYDLF feifeinb uuf__ [Milk-Dragon] kaixin kamm tongban cbkgs Tom_gun520 ioiiug_ oshino_shinob_ treecat_______ Grave_ Bla
+28.06. 21:55:23.637    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,Danganronpa ElMeiro_ KKKKK_ qbwan HI wobushiren laofan huang233 nb__ Vonnegut NER ASJ yan_ +VN EMPEROR__ mWHST HR155 TragicBronson GDbro YAY_ hlxh YL_ PO_ ^XO^XeRA Telena deepdeeep Lenovo____ hua nm boos Alanqa xiaojiu DIY Lynn zxzzzzzzz AngelCities Azoos_ SUZURAN spar Hornet ou chara_chades icer dogofpavlov qwert BELLA hyu1401 ZYZ_c137 LPD__ jjj_ a02 Apocalypser meiyou zk_ Truth_Dream_ LaoDa Ultra7 Dawn_meng,
+28.06. 21:55:23.637    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,rtyre chickenboss wCSN WSADDS [Yunru]CINA LoongCub dwqniqfg GWFWWEQ NADE kuai momo_ ldccz [BR]Brasil7 tianqi-556 catengine CHINESE mxzi test123 fortheunion tommy yzx88888 colder_ dsa332 BITaband Secland student_ Lake24kobe rember Zw_ F20 Tim moran tutu-wk DELL AnonTokyo Valkyrja_ gys fos^gt noob5544 SeitadBallista Mliady o vopv screen p_____ hhhh Taotaonb momo Hotdog aku_ bbbbb_ luhv Admi NI xbz ShunChui [CN]CHUNS,
+28.06. 21:55:23.637    Message received: ckF_ sheng [BA]Shiroko_ llllllllll jumpscare lin sadan HBW judygogogo Hua1984 asus101 Le|1__ wsn88_ say jack Labyrinth asufhbn bo_zhi QAQ___ wei16 RX-105XI__ GTI_LOVE_HAAVK LLLL rrrrrr zix_ XIAO InbevGho
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #
+28.06. 21:55:23.639    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,songgg SMRS w1592 Mistake STNK-PICHI8 llk100086 eeeec Admi123 AYCYNYAHARU feng Joestarli KYDLF feifeinb uuf__ [Milk-Dragon] kaixin kamm tongban cbkgs Tom_gun520 ioiiug_ oshino_shinob_ treecat_______ Grave_ BlackF_ sheng [BA]Shiroko_ llllllllll jumpscare lin sadan HBW judygogogo Hua1984 asus101 Le|1__ wsn88_ say jack Labyrinth asufhbn bo_zhi QAQ___ wei16 RX-105XI__ GTI_LOVE_HAAVK LLLL rrrrrr zix_ XIAO InbevGho,
+28.06. 21:55:24.437    Message received: cncnet :pigfeed CN_PC Ginka KUYASAKA Hammergo CLB nozomi sashino william The_Cloud sjk Nameless YSXB Immorticia_ Irris Narcissu__ NightSkyTS Meggido__ SWer_ +[NM]-IRAN QIZAI__ Zhangdy_ Vahalla_ APOC_ HumerDos_ [RSDDAS__] smallpig_ gaplea ZzbinhzZ YUNRUs_dog_ irondargon_ qmp_ cs__ Asfw knn Raser_CN HYZH ASDFAEWSF xinchen233__ jkihiuhio games98_____ blacksoul Ling_yuan KaiKai ben AL-1S ee44y33 Asriel_ Millenium ASUS xieyingjianshen
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :gewen Bernard Player_______ Mon3tr_ SBD-Dauntles__ ShimonV Mommy [M-Player] xie HHUU55 bambiepie Winnesia_ GayShit zuo pachouli PusheenCat qinpk jzdurong BlackF___ six purpose pancake_ Aris Biggest_Rain__ James___ AAcdC gccbattle_ splashdroplet Papayator YURI__ [CN]yunru fgfhgrator Remi Yuri_ Player_________ woshia qaq Kingboard Cirno rookie dddd SuperC Obligation BlackF__ asuo1 WORN scout svvvv Mash Micheal COS90
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :asfskd TWT gaoxi [BA]sensei xiaohang TheNICO
+28.06. 21:55:24.438    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,pigfeed CN_PC Ginka KUYASAKA Hammergo CLB nozomi sashino william The_Cloud sjk Nameless YSXB Immorticia_ Irris Narcissu__ NightSkyTS Meggido__ SWer_ +[NM]-IRAN QIZAI__ Zhangdy_ Vahalla_ APOC_ HumerDos_ [RSDDAS__] smallpig_ gaplea ZzbinhzZ YUNRUs_dog_ irondargon_ qmp_ cs__ Asfw knn Raser_CN HYZH ASDFAEWSF xinchen233__ jkihiuhio games98_____ blacksoul Ling_yuan KaiKai ben AL-1S ee44y33 Asriel_ Millenium ASUS xieyingjianshen,
+28.06. 21:55:24.438    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,gewen Bernard Player_______ Mon3tr_ SBD-Dauntles__ ShimonV Mommy [M-Player] xie HHUU55 bambiepie Winnesia_ GayShit zuo pachouli PusheenCat qinpk jzdurong BlackF___ six purpose pancake_ Aris Biggest_Rain__ James___ AAcdC gccbattle_ splashdroplet Papayator YURI__ [CN]yunru fgfhgrator Remi Yuri_ Player_________ woshia qaq Kingboard Cirno rookie dddd SuperC Obligation BlackF__ asuo1 WORN scout svvvv Mash Micheal COS90,
+28.06. 21:55:24.438    Message received:  solic fighter [CN]2B Chihaya_Soy0 ZLz yyyyy cap^ QwQ_ Happening hualsa dengj ES_crystal_ hope__ liu_ PC-00 beauty__ Hanayo_ KingCrimson Newb_OG_ cccc Elite_Scout feng666_ laoli wowIo jacob wcnm_ WhyouSm1Le HSBCFHSBD fq han IIIIIIIIIII Hawking dfcz BoondockSaints jijam ob_ Dareus_ ikun56 kjhgfd ewywy @N8Diaz super MomoYi Spaceman quanwei ctp1230 ARENATAALED aaaashi Nobody
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :gaoshou kenier66 MAOJIEJIE r11 Baggio red_ kenier asvor SAKIHI Atllas AMI Krugloff royaljeanne Edison_wk rusaax SeaUni rgrw RT10 li__ WGT chenpingan kj nanami [UNowen-SCrin] jmhngxbfzvd Xegsy kkl yandere name_ lc_mao loobng_ kkjpmjomhu FOC father1 hehe_ games98 August PINE yiyeyiye +[BAT]N8Diaz luoluo10 Fred_ MTX80 AE__ drg2375 VIP Admnixxoap rskzv Xy081231 Alice_ emmm_ +HappyNoob sam_ nico wty dsa xmjdsb dingminghao
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :[ISS]Eclipsa PZ4600 lbd_qwel phantom jazz wardy96 Reunion2025 sf xiaoy Aisi doro T29HeavyTank LIUXIN
+28.06. 21:55:24.438    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,asfskd TWT gaoxi [BA]sensei xiaohang TheNICO solic fighter [CN]2B Chihaya_Soy0 ZLz yyyyy cap^ QwQ_ Happening hualsa dengj ES_crystal_ hope__ liu_ PC-00 beauty__ Hanayo_ KingCrimson Newb_OG_ cccc Elite_Scout feng666_ laoli wowIo jacob wcnm_ WhyouSm1Le HSBCFHSBD fq han IIIIIIIIIII Hawking dfcz BoondockSaints jijam ob_ Dareus_ ikun56 kjhgfd ewywy @N8Diaz super MomoYi Spaceman quanwei ctp1230 ARENATAALED aaaashi Nobody,
+28.06. 21:55:24.440    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,gaoshou kenier66 MAOJIEJIE r11 Baggio red_ kenier asvor SAKIHI Atllas AMI Krugloff royaljeanne Edison_wk rusaax SeaUni rgrw RT10 li__ WGT chenpingan kj nanami [UNowen-SCrin] jmhngxbfzvd Xegsy kkl yandere name_ lc_mao loobng_ kkjpmjomhu FOC father1 hehe_ games98 August PINE yiyeyiye +[BAT]N8Diaz luoluo10 Fred_ MTX80 AE__ drg2375 VIP Admnixxoap rskzv Xy081231 Alice_ emmm_ +HappyNoob sam_ nico wty dsa xmjdsb dingminghao,
+28.06. 21:55:24.440    Message received: GPENG Brui hhh Admi00nistrator Sckn1 +NastyNate fagnn rkr yxl dutchwazaa Saba shaqiuzhzhu laohu_ shhs Europe qikvxn wc_ [SRT]Sleepless Y-DN steven_ [Al]AL-1S_ lyk3616_ Doctor_Bug [Scargiver [C]TripleXX hake dwdawdaaa cn Youth Assessor WhiteSnake TKXT +darkothed0n romp[A] +NastyCollar fangxin liang protest gglike_
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :TS900`J Alice OTOMATIC Pyer23345 loktar-ogar jet Isqing Tesco_ MisakaMikoto Mahdi LeveluP ZTH_ Stuw ob Zerr AlliedRabbit frederic_ duoduo Snowlight jhtfguy_ strategic MTXL Notebook |LAW|MAN aidaierjiate liutoup123 www_ Rosmontis Edmund bubbles_ BlackF fushuang Player_ guo AA-WK [HY]LH_ kissmyass kaen MapleJack cj GRK PepperMint` DaniS x00001 A__ BlackSnow WB jjjj homo [CN]lenlenmom_ namesen WD266 zcyx__ tttk123
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :dfuhk_ remek momodog recognition Jaseer dwq123 wj Reunion2025____ GJX tttt wpy2012 Reunion2025__ dekesasi BaoLongShen sikkan____5 ASUS_ Jhkalp__ a186 hu power Q_w_Q x
+28.06. 21:55:24.440    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,[ISS]Eclipsa PZ4600 lbd_qwel phantom jazz wardy96 Reunion2025 sf xiaoy Aisi doro T29HeavyTank LIUXINGPENG Brui hhh Admi00nistrator Sckn1 +NastyNate fagnn rkr yxl dutchwazaa Saba shaqiuzhzhu laohu_ shhs Europe qikvxn wc_ [SRT]Sleepless Y-DN steven_ [Al]AL-1S_ lyk3616_ Doctor_Bug [Scargiver [C]TripleXX hake dwdawdaaa cn Youth Assessor WhiteSnake TKXT +darkothed0n romp[A] +NastyCollar fangxin liang protest gglike_,
+28.06. 21:55:24.440    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,TS900`J Alice OTOMATIC Pyer23345 loktar-ogar jet Isqing Tesco_ MisakaMikoto Mahdi LeveluP ZTH_ Stuw ob Zerr AlliedRabbit frederic_ duoduo Snowlight jhtfguy_ strategic MTXL Notebook |LAW|MAN aidaierjiate liutoup123 www_ Rosmontis Edmund bubbles_ BlackF fushuang Player_ guo AA-WK [HY]LH_ kissmyass kaen MapleJack cj GRK PepperMint` DaniS x00001 A__ BlackSnow WB jjjj homo [CN]lenlenmom_ namesen WD266 zcyx__ tttk123,
+28.06. 21:55:24.440    Message received: uewu1__ RTX_ wang_Y tiqnq samet OLDSCHOOL04 bluets [SW]TaoSuu klkj3 sihunzi TBK TERRADOR Dirge rock CCCP_Tashkent Nevada cuikejia Soooooon ALO fufu MnLk TheFool_ SANYA [cn]ai A Hunter_ [Left4Dead] +YaNg_wk Zi_Yun Potempkin_ [-Gremlin-] DaySF liangbingchun
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :DEllfhq cederwood Player____ phx____ kataur_ [BAT]JukVo1 Changgegege RAM-yuzgen lateralus geoff rsosr_ smallfatsheep Enkou germany111_ Bob_______ Andreas Player__ Lenovo_ Dayuanman pauls Smee razer__ USER__ NEWB____ [RP]SA-INT d_rebel freddy zk SandKing BILLCLINTON [BAT]Steve_ r2d2 +CnCNetStats Ai4Ni mghamms yona CaocaoJr Len Kalle Rob WhoLetTheBotsOut @Hottwire @CnCNet5_Bot Crimson13 Leslie D2kPlayerMonitor ScRaMbLe
+:NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz @ #cncnet :BlindSight @SpamServ @ChanServ Hitsugaya
+
+28.06. 21:55:24.440    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,dfuhk_ remek momodog recognition Jaseer dwq123 wj Reunion2025____ GJX tttt wpy2012 Reunion2025__ dekesasi BaoLongShen sikkan____5 ASUS_ Jhkalp__ a186 hu power Q_w_Q xuewu1__ RTX_ wang_Y tiqnq samet OLDSCHOOL04 bluets [SW]TaoSuu klkj3 sihunzi TBK TERRADOR Dirge rock CCCP_Tashkent Nevada cuikejia Soooooon ALO fufu MnLk TheFool_ SANYA [cn]ai A Hunter_ [Left4Dead] +YaNg_wk Zi_Yun Potempkin_ [-Gremlin-] DaySF liangbingchun,
+28.06. 21:55:24.443    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,DEllfhq cederwood Player____ phx____ kataur_ [BAT]JukVo1 Changgegege RAM-yuzgen lateralus geoff rsosr_ smallfatsheep Enkou germany111_ Bob_______ Andreas Player__ Lenovo_ Dayuanman pauls Smee razer__ USER__ NEWB____ [RP]SA-INT d_rebel freddy zk SandKing BILLCLINTON [BAT]Steve_ r2d2 +CnCNetStats Ai4Ni mghamms yona CaocaoJr Len Kalle Rob WhoLetTheBotsOut @Hottwire @CnCNet5_Bot Crimson13 Leslie D2kPlayerMonitor ScRaMbLe,
+28.06. 21:55:24.443    RMP: NuclearFallout.WA.US.GameSurge.net 353 Blackgamerz,@,#cncnet,BlindSight @SpamServ @ChanServ Hitsugaya,
+28.06. 21:55:24.815    Message received: :NuclearFallout.WA.US.GameSurge.net 366 Blackgamerz #cncnet :End of /NAMES list.
+:ydid!~RU.ced7cd@38560770.b5dc35a9.aa7cd6e7.IP4 JOIN #cncnet
+:tqzcsans_!~MO.0b332c@852ba5ba.b17699e9.c7edfa55.IP4 QUIT :Signed off
+:JayGay!~1ILrcqS4c@3658f175.49542e76.50795097.IP4 QUIT :Quit: 1.40 r02 0
+
+28.06. 21:55:24.815    RMP: NuclearFallout.WA.US.GameSurge.net 366 Blackgamerz,#cncnet,End of /NAMES list.,
+28.06. 21:55:24.817    RMP: ydid!~RU.ced7cd@38560770.b5dc35a9.aa7cd6e7.IP4 JOIN #cncnet,
+28.06. 21:55:24.817    RMP: tqzcsans_!~MO.0b332c@852ba5ba.b17699e9.c7edfa55.IP4 QUIT Signed off,
+28.06. 21:55:24.821    RMP: JayGay!~1ILrcqS4c@3658f175.49542e76.50795097.IP4 QUIT Quit: 1.40 r02 0,
+28.06. 21:55:25.184    Delayed message sent: 3
+28.06. 21:55:25.184    SRM: JOIN #yrcer-cg-games
+28.06. 21:55:25.209    Message received: :Famid_!~MO.a9adb9@373913b5.dffad0bb.7904fe61.IP4 JOIN #cncnet
+
+28.06. 21:55:25.209    RMP: Famid_!~MO.a9adb9@373913b5.dffad0bb.7904fe61.IP4 JOIN #cncnet,
+28.06. 21:55:25.762    Message received: :Kokoa!~MO.943338@142bf94a.b5324035.bacea99f.IP4 JOIN #cncnet
+
+28.06. 21:55:25.764    RMP: Kokoa!~MO.943338@142bf94a.b5324035.bacea99f.IP4 JOIN #cncnet,
+28.06. 21:55:26.879    Message received: :gy!~RU.38ac01@6e37ada9.946aa6ae.721428b6.IP4 QUIT :Quit
+
+28.06. 21:55:26.879    RMP: gy!~RU.38ac01@6e37ada9.946aa6ae.721428b6.IP4 QUIT Quit,
+28.06. 21:55:27.181    SRM: QUIT
+28.06. 21:55:28.842    Exiting.
+28.06. 21:55:28.843    Saving Client/friend_list.
+28.06. 21:55:28.845    Saving Client/ignore_list.
+28.06. 21:55:28.847    Saving Client/recent_list.
