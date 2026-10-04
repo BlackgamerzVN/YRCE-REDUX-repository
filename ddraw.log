@@ -1,0 +1,12 @@
+8060 14:50:51.383 Process path: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\gamemd.exe
+8060 14:50:51.384 Environment variable __COMPAT_LAYER = "RunAsAdmin Installer DWM8And16BitMitigation"
+8060 14:50:51.384 Loading DDrawCompat from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\DDRAW.dll
+8060 14:50:51.388 Disabling external hook to DirectDrawCreate in apphelp.dll
+8060 14:50:51.389 DDrawCompat loaded successfully
+8060 14:50:52.345 Installing registry hooks
+8060 14:50:52.345 Installing Direct3D driver hooks
+8060 14:50:52.345 Installing DirectDraw hooks
+8060 14:50:52.401 Installing Direct3D hooks
+8060 14:50:52.404 Installing GDI hooks
+8060 14:50:52.420 Installing display mode hooks
+8060 14:50:52.420 Finished installing hooks

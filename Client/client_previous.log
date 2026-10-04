@@ -1,75 +1,88 @@
-30.06. 14:59:47.387    ***Logfile for CnCNet Client client***
-30.06. 14:59:47.387    Client version: 2.12.5.0
-30.06. 14:59:47.388    2.12.5+Branch.tags-2.12.5.Sha.87ecde94ee77e4a2a7ef242b49fbbdf0bd846935
-30.06. 14:59:47.407    Loading settings.
-30.06. 14:59:47.432    Failed to load a translation file. Neither C:\Users\s4043089\Documents\New folder\YRCE-REDUX-repository\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Users\s4043089\Documents\New folder\YRCE-REDUX-repository\Resources\Translations\en\Translation.ini exist.
-30.06. 14:59:47.432    Loaded translation: English
-30.06. 14:59:47.719    Initializing updater.
-30.06. 14:59:47.740    Updater: Initializing updater.
-30.06. 14:59:47.747    Warning: No download mirrors found in updater config file or the built-in game info.
-30.06. 14:59:47.747    Updater: Update mirror count: 0
-30.06. 14:59:47.747    Updater: Running from: clientdx.exe
-30.06. 14:59:47.747    OSDescription: Microsoft Windows 10.0.26100 
-30.06. 14:59:47.748    OSArchitecture: X64
-30.06. 14:59:47.748    ProcessArchitecture: X64
-30.06. 14:59:47.748    FrameworkDescription: .NET Framework 4.8.9310.0
-30.06. 14:59:47.748    Selected OS profile: WIN810
-30.06. 14:59:47.748    Current culture: en-US
-30.06. 14:59:47.750    Saved Games directory does not exist - attempting to create one.
-30.06. 14:59:47.751    Removing partial custom component downloads.
-30.06. 14:59:47.751    Checking for the existence of FinalSun.ini.
-30.06. 14:59:47.751    FinalSun settings file exists.
-30.06. 14:59:47.768    Writing installation path to the Windows registry.
-30.06. 14:59:47.782    Starting background processing of INI files.
-30.06. 14:59:47.783    /INI/Base does not exist, skipping background processing of INI files.
-30.06. 14:59:47.995    Steam init called
-30.06. 14:59:48.005    Steam init failed: SteamApi_Init failed with FailedGeneric - error: Could not determine Steam client install directory.
-30.06. 14:59:48.487    Initializing GameClass.
-30.06. 14:59:48.775    Initialize WinFormsIMEHandler.
-30.06. 14:59:48.778    InitGraphicsMode: 1920x1080
-30.06. 14:59:48.789    Not entering fullscreen mode due to resolution mismatch. Desktop: 2560x1440, Client: 1920x1080.
-30.06. 14:59:48.792    Setting render resolution to 1366x800. Integer scaling: False
-30.06. 14:59:48.866    Hardware info: 12th Gen Intel(R) Core(TM) i9-12900 (16 cores) | Video controller: NVIDIA GeForce RTX 3090 | Total physical memory: 32GB
-30.06. 14:59:49.538    Loading maps from C:\Users\s4043089\Documents\New folder\YRCE-REDUX-repository\INI\MPMaps.ini.
-30.06. 14:59:50.715    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.716    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.716    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.717    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.717    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.718    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.718    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.719    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.724    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.725    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:50.725    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
-30.06. 14:59:52.021    AssetLoader.LoadSound: Sound not found! getready.wav
-30.06. 14:59:52.095    AssetLoader.LoadSound: Sound not found! getready.wav
-30.06. 14:59:52.095    AssetLoader.LoadSound: Sound not found! return.wav
-30.06. 14:59:52.302    AssetLoader.LoadSound: Sound not found! getready.wav
-30.06. 14:59:52.302    AssetLoader.LoadSound: Sound not found! return.wav
-30.06. 14:59:52.318    AssetLoader.LoadSound: Sound not found! getready.wav
-30.06. 14:59:52.369    Attempting to parse INI/Battle.ini to populate mission list.
-30.06. 14:59:52.389    Finished parsing INI/Battle.ini.
-30.06. 14:59:52.483    Reading statistics.
-30.06. 14:59:55.863    Writing spawn.ini
-30.06. 14:59:55.871    Writing map.
-30.06. 14:59:55.871    Loading map INI from C:\Users\s4043089\Documents\New folder\YRCE-REDUX-repository\Maps\Standard\xeb3.map
-30.06. 14:59:55.899    About to launch main game executable.
-30.06. 14:59:55.907    Writing settings INI.
-30.06. 14:59:55.909    Launch executable: C:\Users\s4043089\Documents\New folder\YRCE-REDUX-repository\syringe.exe
-30.06. 14:59:55.909    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD -Include -Inheritance
-30.06. 14:59:55.961    GameProcessLogic: Process started.
-30.06. 14:59:55.973    Waiting for qres.dat or syringe.exe to exit.
-30.06. 15:04:00.652    GameProcessLogic: Process exited.
-30.06. 15:04:00.694    InitGraphicsMode: 1920x1080
-30.06. 15:04:00.696    Not entering fullscreen mode due to resolution mismatch. Desktop: 2560x1440, Client: 1920x1080.
-30.06. 15:04:00.696    Setting render resolution to 1366x800. Integer scaling: False
-30.06. 15:04:00.698    GameProcessExited: Parsing statistics.
-30.06. 15:04:00.698    Parsing game statistics.
-30.06. 15:04:00.699    Attempting to read statistics from debug/debug.log
-30.06. 15:04:00.704    GameProcessExited: Adding match to statistics.
-30.06. 15:04:00.706    Skipping adding match to statistics because game only had one player.
-30.06. 15:04:25.774    Exiting.
-30.06. 15:04:25.776    Saving Client/friend_list.
-30.06. 15:04:25.781    Saving Client/ignore_list.
-30.06. 15:04:25.783    Saving Client/recent_list.
+03.10. 14:44:26.675    ***Logfile for CnCNet Client client***
+03.10. 14:44:26.677    Client version: 2.12.18.0
+03.10. 14:44:26.677    2.12.18+Branch.tags-2.12.18.Sha.1634f18fd56a8d74e4cbec89f9f6408f0a06d4d0
+03.10. 14:44:26.687    Loading settings.
+03.10. 14:44:26.717    Failed to load a translation file. Neither C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\Translations\en\Translation.ini exist.
+03.10. 14:44:26.717    Loaded translation: English
+03.10. 14:44:26.737    Initializing updater.
+03.10. 14:44:26.764    Updater: Initializing updater.
+03.10. 14:44:26.769    Warning: No download mirrors found in updater config file or the built-in game info.
+03.10. 14:44:26.770    Updater: Update mirror count: 0
+03.10. 14:44:26.771    Updater: Running from: clientdx.exe
+03.10. 14:44:26.772    OSDescription: Microsoft Windows 10.0.26200 
+03.10. 14:44:26.773    OSArchitecture: X64
+03.10. 14:44:26.773    ProcessArchitecture: X64
+03.10. 14:44:26.773    FrameworkDescription: .NET Framework 4.8.9345.0
+03.10. 14:44:26.774    Selected OS profile: WIN810
+03.10. 14:44:26.775    Current culture: en-US
+03.10. 14:44:26.779    Removing partial custom component downloads.
+03.10. 14:44:26.781    Checking for the existence of FinalSun.ini.
+03.10. 14:44:26.781    FinalSun settings file exists.
+03.10. 14:44:26.792    Writing installation path to the Windows registry.
+03.10. 14:44:26.796    Starting background processing of INI files.
+03.10. 14:44:26.797    /INI/Base does not exist, skipping background processing of INI files.
+03.10. 14:44:27.619    Steam init called
+03.10. 14:44:27.734    Steam init failed: SteamApi_Init failed with FailedGeneric - error: ConnectToGlobalUser failed.
+03.10. 14:44:27.916    Initializing GameClass.
+03.10. 14:44:28.059    Initialize WinFormsIMEHandler.
+03.10. 14:44:28.063    InitGraphicsMode: 1366x800
+03.10. 14:44:28.077    Setting render resolution to 1366x800. Integer scaling: False
+03.10. 14:44:28.117    Hardware info: AMD Ryzen 7 7735HS with Radeon Graphics (8 cores) | Video controller: AMD Radeon(TM) Graphics | Total physical memory: 16GB
+03.10. 14:44:28.845    MapFileWatcher: Started watching C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Custom\ for *.map files
+03.10. 14:44:28.847    Loading maps from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\INI\MPMaps.ini.
+03.10. 14:44:29.354    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.356    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.357    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.357    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.358    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.358    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.359    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.360    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.363    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.363    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.363    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+03.10. 14:44:29.914    Reading statistics.
+03.10. 14:44:30.153    AssetLoader.LoadSound: Sound not found! getready.wav
+03.10. 14:44:30.216    AssetLoader.LoadSound: Sound not found! getready.wav
+03.10. 14:44:30.216    AssetLoader.LoadSound: Sound not found! return.wav
+03.10. 14:44:30.342    Setting delay to 7286ms for 0
+03.10. 14:44:30.453    AssetLoader.LoadSound: Sound not found! getready.wav
+03.10. 14:44:30.455    AssetLoader.LoadSound: Sound not found! return.wav
+03.10. 14:44:30.475    AssetLoader.LoadSound: Sound not found! getready.wav
+03.10. 14:44:30.525    Attempting to parse INI/Battle.ini to populate mission list.
+03.10. 14:44:30.530    Finished parsing INI/Battle.ini.
+03.10. 14:44:30.758    Checking compatibility settings for executables: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Resources\clientdx.exe
+03.10. 14:44:38.691    Writing spawn.ini
+03.10. 14:44:38.700    Writing map.
+03.10. 14:44:38.700    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\xgrinder.map
+03.10. 14:44:38.723    About to launch main game executable.
+03.10. 14:44:38.735    Writing settings INI.
+03.10. 14:44:38.737    Windowed mode is enabled - using QRes.
+03.10. 14:44:38.737    Launch executable: qres.dat
+03.10. 14:44:38.737    Launch arguments: c=16 /R "C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe" "gamemd.exe" -SPAWN syringe.exe gamemd.exe --args="-SPAWN -LOG -CD -Inheritance -Include"
+03.10. 14:44:38.757    Waiting for qres.dat or syringe.exe to exit.
+03.10. 14:48:30.294    GameProcessLogic: Process exited.
+03.10. 14:48:30.457    GameProcessExited: Parsing statistics.
+03.10. 14:48:30.458    Parsing game statistics.
+03.10. 14:48:30.460    Attempting to read statistics from debug/debug.log
+03.10. 14:48:30.460    GameProcessExited: Adding match to statistics.
+03.10. 14:48:30.461    Skipping adding match to statistics because game only had one player.
+03.10. 14:48:39.142    Writing spawn.ini
+03.10. 14:48:39.143    Writing map.
+03.10. 14:48:39.143    Loading map INI from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\Maps\Standard\xgrinder.map
+03.10. 14:48:39.158    About to launch main game executable.
+03.10. 14:48:39.161    Writing settings INI.
+03.10. 14:48:39.162    Windowed mode is enabled - using QRes.
+03.10. 14:48:39.162    Launch executable: qres.dat
+03.10. 14:48:39.162    Launch arguments: c=16 /R "C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\syringe.exe" "gamemd.exe" -SPAWN syringe.exe gamemd.exe --args="-SPAWN -LOG -CD -Inheritance -Include"
+03.10. 14:48:39.176    Waiting for qres.dat or syringe.exe to exit.
+03.10. 15:00:38.910    GameProcessLogic: Process exited.
+03.10. 15:00:38.988    GameProcessExited: Parsing statistics.
+03.10. 15:00:38.989    Parsing game statistics.
+03.10. 15:00:38.989    Attempting to read statistics from debug/debug.log
+03.10. 15:00:38.989    GameProcessExited: Adding match to statistics.
+03.10. 15:00:38.990    Skipping adding match to statistics because game only had one player.
+03.10. 15:00:42.233    Exiting.
+03.10. 15:00:42.235    Saving Client/friend_list.
+03.10. 15:00:42.236    Saving Client/ignore_list.
+03.10. 15:00:42.237    Saving Client/recent_list.

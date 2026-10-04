@@ -1,0 +1,191 @@
+17:31:33.884 Process path: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\gamemd.exe
+17:31:33.884 Loading DDrawCompat statically from C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\DDRAW.dll
+17:31:33.884 DDrawCompat version: v0.6.0
+17:31:33.884 Windows version: 10.0.26200
+17:31:33.884 Environment variable __COMPAT_LAYER = "RunAsAdmin DetectorsAdminProtection Installer DWM8And16BitMitigation"
+17:31:33.884 Loading global config file: C:\ProgramData\DDrawCompat\DDrawCompat.ini
+17:31:33.884   File not found, skipping
+17:31:33.884 Loading user config file: C:\Users\Admin\AppData\Local\DDrawCompat\DDrawCompat.ini
+17:31:33.884   File not found, skipping
+17:31:33.884 Loading directory config file: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\DDrawCompat.ini
+17:31:33.884   File not found, skipping
+17:31:33.884 Loading process config file: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\DDrawCompat-gamemd.ini
+17:31:33.885   File not found, skipping
+17:31:33.885 Loading overlay config file: C:\Users\Admin\Documents\GitHub\YRCE-REDUX-repository\DDrawCompatOverlay-gamemd.ini
+17:31:33.885   File not found, skipping
+17:31:33.885 Final configuration:
+17:31:33.885   [default] AltTabFix               = off
+17:31:33.885   [default] AlternatePixelCenter    = off
+17:31:33.885   [default] Antialiasing            = off
+17:31:33.885   [default] BltFilter               = point
+17:31:33.885   [default] CapsPatches             = none
+17:31:33.885   [default] ColorKeyMethod          = alphatest(1)
+17:31:33.885   [default] CompatFixes             = none
+17:31:33.885   [default] ConfigHotKey            = shift+f11
+17:31:33.885   [default] ConfigRows              = allrw, allro
+17:31:33.885   [default] ConfigTransparency      = alpha(90)
+17:31:33.885   [default] CpuAffinity             = 1
+17:31:33.885   [default] CpuAffinityRotation     = on
+17:31:33.885   [default] CrashDump               = off
+17:31:33.885   [default] DepthFormat             = app
+17:31:33.885   [default] DesktopColorDepth       = initial
+17:31:33.885   [default] DesktopResolution       = desktop
+17:31:33.885   [default] DisplayAspectRatio      = app
+17:31:33.885   [default] DisplayFilter           = bilinear(0)
+17:31:33.885   [default] DisplayRefreshRate      = app
+17:31:33.885   [default] DisplayResolution       = desktop
+17:31:33.885   [default] DpiAwareness            = permonitor
+17:31:33.885   [default] EnableDDrawCompat       = on
+17:31:33.885   [default] FontAntialiasing        = app
+17:31:33.885   [default] ForceD3D9On12           = off
+17:31:33.885   [default] FpsLimiter              = off
+17:31:33.885   [default] FullscreenMode          = borderless
+17:31:33.885   [default] LogLevel                = info
+17:31:33.885   [default] MousePollingRate        = native
+17:31:33.885   [default] MouseSensitivity        = desktop(100)
+17:31:33.885   [default] PalettizedTextures      = off
+17:31:33.885   [default] PresentDelay            = on(10)
+17:31:33.885   [default] RenderColorDepth        = 32
+17:31:33.885   [default] ResolutionScale         = app(1)
+17:31:33.885   [default] ResolutionScaleFilter   = point
+17:31:33.885   [default] SoftwareDevice          = rgb
+17:31:33.885   [default] SpriteAltPixelCenter    = apc
+17:31:33.885   [default] SpriteDetection         = off
+17:31:33.885   [default] SpriteFilter            = app
+17:31:33.885   [default] SpriteTexCoord          = app
+17:31:33.885   [default] StatsAggregateTime      = 3
+17:31:33.885   [default] StatsColumns            = label, cur, avg, min, max
+17:31:33.885   [default] StatsHotKey             = shift+f12
+17:31:33.885   [default] StatsPosX               = right
+17:31:33.885   [default] StatsPosY               = top
+17:31:33.885   [default] StatsRows               = label, presentrate, fliprate, blitcount, lockcount
+17:31:33.885   [default] StatsTransparency       = alpha(75)
+17:31:33.885   [default] StatsUpdateRate         = 5
+17:31:33.885   [default] SupportedDepthFormats   = all
+17:31:33.885   [default] SupportedDevices        = all
+17:31:33.885   [default] SupportedRefreshRates   = native
+17:31:33.885   [default] SupportedResolutions    = native, 640x480, 800x600, 1024x768
+17:31:33.885   [default] SupportedTextureFormats = all
+17:31:33.885   [default] SurfacePatches          = none
+17:31:33.885   [default] TerminateHotKey         = ctrl+alt+end
+17:31:33.885   [default] TextureFilter           = app
+17:31:33.885   [default] ThreadPriorityBoost     = off
+17:31:33.885   [default] VSync                   = app
+17:31:33.885   [default] VertexBufferMemoryType  = sysmem
+17:31:33.885   [default] VertexFixup             = gpu
+17:31:33.885   [default] ViewportEdgeFix         = off
+17:31:33.885   [default] WinVersionLie           = off
+17:31:33.893 Initial DPI awareness: unaware
+17:31:33.893 DPI awareness was successfully changed to "permonitor" via SetProcessDpiAwarenessContext
+17:31:33.894 Primary CPU group number: 0
+17:31:33.894 Physical to logical CPU core mapping for efficiency class 0:
+17:31:33.894   Physical core #1: 1, 2
+17:31:33.894   Physical core #2: 3, 4
+17:31:33.894   Physical core #3: 5, 6
+17:31:33.894   Physical core #4: 7, 8
+17:31:33.894   Physical core #5: 9, 10
+17:31:33.894   Physical core #6: 11, 12
+17:31:33.894   Physical core #7: 13, 14
+17:31:33.894   Physical core #8: 15, 16
+17:31:33.894 Process priority class: 32
+17:31:33.894 Current CPU affinity: 2
+17:31:33.894 Applying configured CPU affinity: 1
+17:31:33.894 CPU affinity rotation is enabled
+17:31:33.934 DDrawCompat loaded successfully
+17:31:37.268 Installing display mode hooks
+17:31:37.268 Initial display mode: 1920x1080, 16 bpp, 60 Hz
+17:31:37.292 Installing registry hooks
+17:31:37.294 Installing Direct3D driver hooks
+17:31:37.366 Hooking user mode display driver: C:\WINDOWS\System32\DriverStore\FileRepository\u0203303.inf_amd64_e5876a26758f154c\B026363\atidx9loader32.dll+0x1050
+17:31:37.366 Driver version: 32.0.21045.5002
+17:31:37.366 Adapter name: AMD Radeon(TM) Graphics
+17:31:37.366 Supported resource formats:
+17:31:37.367   {D3DDDIFMT_X1R5G5B5,0xca701f,0x8b,0x8b,16}
+17:31:37.367   {D3DDDIFMT_A1R5G5B5,0xca701f,0x8b,0x8b,16}
+17:31:37.367   {D3DDDIFMT_A4R4G4B4,0xc2701f,0x8b,0x8b,16}
+17:31:37.367   {D3DDDIFMT_R5G6B5,0xca7c1f,0x8b,0x8b,16}
+17:31:37.367   {D3DDDIFMT_X8R8G8B8,0xdafc1f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_A8R8G8B8,0xdaf11f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_X8B8G8R8,0xdaf11f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_L8,0xc2701f,0x0,0x0,8}
+17:31:37.367   {D3DDDIFMT_P8,0x5000,0x0,0x0,8}
+17:31:37.367   {D3DDDIFMT_V8U8,0x831007,0x0,0x0,16}
+17:31:37.367   {D3DDDIFMT_X8L8V8U8,0x31007,0x0,0x0,32}
+17:31:37.367   {D3DDDIFMT_Q8W8V8U8,0x83501f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_V16U16,0x831007,0x0,0x0,32}
+17:31:37.367   {D3DDDIFMT_A2W10V10U10,0x31007,0x0,0x0,32}
+17:31:37.367   {D3DDDIFMT_Q16W16V16U16,0x83501f,0x8b,0x8b,64}
+17:31:37.367   {FOURCC(DXT1),0x82e007,0x0,0x0,0}
+17:31:37.367   {FOURCC(DXT2),0x82e007,0x0,0x0,0}
+17:31:37.367   {FOURCC(DXT3),0x82e007,0x0,0x0,0}
+17:31:37.367   {FOURCC(DXT4),0x82e007,0x0,0x0,0}
+17:31:37.367   {FOURCC(DXT5),0x82e007,0x0,0x0,0}
+17:31:37.367   {FOURCC(ATI1),0x821007,0x0,0x0,8}
+17:31:37.367   {FOURCC(ATI2),0x821007,0x0,0x0,8}
+17:31:37.367   {D3DDDIFMT_A4L4,0x827007,0x0,0x0,8}
+17:31:37.367   {D3DDDIFMT_A8L8,0x827007,0x0,0x0,16}
+17:31:37.367   {D3DDDIFMT_A2B10G10R10,0xca701f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_G16R16,0xc2701f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_L16,0xc2701f,0x0,0x0,16}
+17:31:37.367   {D3DDDIFMT_A2R10G10B10,0xca7c1f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_A16B16G16R16F,0xca701f,0x8b,0x8b,64}
+17:31:37.367   {D3DDDIFMT_A16B16G16R16,0xca701f,0x8b,0x8b,64}
+17:31:37.367   {D3DDDIFMT_R16F,0xc2701f,0x8b,0x8b,16}
+17:31:37.367   {D3DDDIFMT_G16R16F,0xc2701f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_R32F,0xc2701f,0x8b,0x8b,32}
+17:31:37.367   {D3DDDIFMT_G32R32F,0xc2701f,0x8b,0x8b,64}
+17:31:37.368   {D3DDDIFMT_A32B32G32R32F,0xca701f,0x8b,0x8b,128}
+17:31:37.368   {D3DDDIFMT_R8,0xc2701f,0x8b,0x8b,8}
+17:31:37.368   {D3DDDIFMT_G8R8,0xc2701f,0x8b,0x8b,16}
+17:31:37.368   {D3DDDIFMT_D16_LOCKABLE,0x10c0,0x0,0x0,16}
+17:31:37.368   {D3DDDIFMT_D16,0x10c1,0x8b,0x8b,16}
+17:31:37.368   {D3DDDIFMT_X8D24,0x10c1,0x8b,0x8b,32}
+17:31:37.368   {D3DDDIFMT_D32F_LOCKABLE,0x10c1,0x0,0x0,32}
+17:31:37.368   {D3DDDIFMT_S8D24,0x10c1,0x8b,0x8b,32}
+17:31:37.368   {FOURCC(DF16),0x10c1,0x8b,0x8b,16}
+17:31:37.368   {FOURCC(DS16),0x10c1,0x8b,0x8b,16}
+17:31:37.368   {FOURCC(DF24),0x10c1,0x8b,0x8b,32}
+17:31:37.368   {D3DDDIFMT_A8,0xc2701f,0x0,0x0,8}
+17:31:37.368   {FOURCC(UYVY),0x7000,0x0,0x0,16}
+17:31:37.368   {FOURCC(YUY2),0x7000,0x0,0x0,16}
+17:31:37.368   {FOURCC(NV12),0x7000,0x0,0x0,12}
+17:31:37.368   {FOURCC(NV21),0x7000,0x0,0x0,12}
+17:31:37.368   {FOURCC(YV12),0x7000,0x0,0x0,12}
+17:31:37.368   {FOURCC(AYUV),0x7000,0x0,0x0,32}
+17:31:37.368   {FOURCC(SYV2),0x7000,0x0,0x0,16}
+17:31:37.368   {FOURCC(P010),0x7000,0x0,0x0,24}
+17:31:37.368   {FOURCC(INST),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(GET4),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(NULL),0xc2701f,0x8b,0x8b,32}
+17:31:37.368   {FOURCC(INTZ),0x10c1,0x0,0x0,32}
+17:31:37.368   {FOURCC(AQBS),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(ATIC),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(GINF),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(HSAF),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(RESZ),0xc2701f,0x0,0x0,32}
+17:31:37.368   {FOURCC(MMDX),0x6000,0x0,0x0,0}
+17:31:37.368   {FOURCC(SHDT),0x6000,0x0,0x0,0}
+17:31:37.368 Supported z-buffer bit depths: 16, 24
+17:31:37.368 Supported MSAA modes: msaa(7), msaa2x(4), msaa4x(2), msaa8x(2)
+17:31:37.498 Dynamic vertex buffers are available
+17:31:37.498 Dynamic index buffers are available
+17:31:37.505 Installing DirectDraw hooks
+17:31:37.513 Installing Direct3D hooks
+17:31:37.525 Installing GDI hooks
+17:31:37.529 Failed to hook a user32 window procedure: Button
+17:31:37.529 Failed to hook a user32 window procedure: Button
+17:31:37.529 Failed to hook a user32 window procedure: ComboBox
+17:31:37.529 Failed to hook a user32 window procedure: ComboBox
+17:31:37.529 Failed to hook a user32 window procedure: ComboLBox
+17:31:37.529 Failed to hook a user32 window procedure: ComboLBox
+17:31:37.529 Failed to hook a user32 window procedure: Edit
+17:31:37.529 Failed to hook a user32 window procedure: Edit
+17:31:37.529 Failed to hook a user32 window procedure: ListBox
+17:31:37.529 Failed to hook a user32 window procedure: ListBox
+17:31:37.530 Failed to hook a user32 window procedure: ScrollBar
+17:31:37.530 Failed to hook a user32 window procedure: ScrollBar
+17:31:37.530 Failed to hook a user32 window procedure: Static
+17:31:37.530 Failed to hook a user32 window procedure: Static
+17:31:37.532 Finished installing hooks
+17:31:37.545 Using resource format: D3DDDIFMT_R5G6B5, primary, anymem -> vidmem
+17:31:37.628 Using resource format: D3DDDIFMT_R5G6B5, plain, sysmem
